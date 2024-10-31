@@ -1,0 +1,955 @@
+state,pollster,start_date,end_date,sample_size,Trump,Harris,Other
+Alaska,Alaska Survey Research,2024-10-20,2024-10-22,1703.0,53.0,44.0,3.0
+Alaska,Alaska Survey Research,2024-10-08,2024-10-09,1254.0,52.0,44.5,3.5
+Alaska,Alaska Survey Research,2024-09-11,2024-09-12,1254.0,47.0,42.0,11.0
+Alaska,Alaska Survey Research,2024-09-27,2024-09-29,1182.0,52.0,43.0,5.0
+Alaska,Cygnal,2024-08-30,2024-09-01,400.0,53.0,43.1,3.8999999999999986
+Arizona,ActiVote,2024-09-06,2024-10-08,400.0,50.7,49.3,0.0
+Arizona,AtlasIntel,2024-10-12,2024-10-17,1440.0,49.2,48.95,1.8499999999999943
+Arizona,AtlasIntel,2024-10-25,2024-10-29,1458.0,50.7,46.849999999999994,2.450000000000003
+Arizona,AtlasIntel,2024-09-20,2024-09-25,946.0,49.75,48.6,1.6499999999999986
+Arizona,Beacon/Shaw,2024-09-20,2024-09-24,764.0,50.5,47.5,2.0
+Arizona,Beacon/Shaw,2024-09-20,2024-09-24,1021.0,49.5,47.5,3.0
+Arizona,Beacon/Shaw,2024-08-23,2024-08-26,1014.0,48.0,49.0,3.0
+Arizona,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,435.0,44.0,47.0,9.0
+Arizona,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,409.0,47.5,50.0,2.5
+Arizona,CES / YouGov,2024-10-01,2024-10-25,2066.0,51.0,47.0,2.0
+Arizona,CES / YouGov,2024-10-01,2024-10-25,2077.0,49.0,49.0,2.0
+Arizona,CNN/SSRS,2024-08-23,2024-08-29,682.0,49.0,44.0,7.0
+Arizona,CNN/SSRS,2024-10-21,2024-10-26,781.0,47.0,48.0,5.0
+Arizona,Data Orbital,2024-10-26,2024-10-28,550.0,49.7,41.9,8.399999999999999
+Arizona,Data Orbital,2024-09-07,2024-09-09,550.0,46.2,46.0,7.799999999999997
+Arizona,Emerson,2024-09-27,2024-09-28,920.0,51.7,47.6,0.6999999999999957
+Arizona,Emerson,2024-10-05,2024-10-08,1000.0,50.5,48.2,1.2999999999999972
+Arizona,Emerson,2024-07-22,2024-07-23,800.0,50.05,43.599999999999994,6.3500000000000085
+Arizona,Emerson,2024-08-25,2024-08-28,720.0,51.2,47.5,1.2999999999999972
+Arizona,Emerson,2024-09-15,2024-09-18,868.0,49.8,48.7,1.5
+Arizona,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,45.5,47.5,7.0
+Arizona,Fabrizio/Impact,2024-09-24,2024-10-01,600.0,49.5,47.5,3.0
+Arizona,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,49.0,46.0,5.0
+Arizona,Focaldata,2024-08-06,2024-08-16,702.0,47.76666666666667,45.166666666666664,7.066666666666663
+Arizona,Focaldata,2024-09-03,2024-09-16,1097.0,47.475,50.525,2.0
+Arizona,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,400.0,47.0,47.5,5.5
+Arizona,HighGround,2024-10-19,2024-10-20,400.0,46.8,46.2,7.0
+Arizona,HighGround,2024-07-30,2024-08-05,500.0,41.6,44.4,14.0
+Arizona,HighGround,2024-09-26,2024-09-29,500.0,45.4,47.6,7.0
+Arizona,InsiderAdvantage,2024-10-19,2024-10-20,800.0,49.5,47.0,3.5
+Arizona,InsiderAdvantage,2024-08-29,2024-08-31,800.0,48.6,48.4,3.0
+Arizona,InsiderAdvantage,2024-09-29,2024-09-30,800.0,49.1,47.7,3.1999999999999957
+Arizona,Iron Light,2024-07-29,2024-08-05,600.0,43.0,43.0,14.0
+Arizona,Marist,2024-09-19,2024-09-24,1264.0,50.0,49.0,1.0
+Arizona,Marist,2024-09-19,2024-09-24,1416.0,50.0,48.0,2.0
+Arizona,Marist,2024-10-17,2024-10-22,1193.0,50.0,49.0,1.0
+Arizona,Marist,2024-10-17,2024-10-22,1329.0,49.0,49.0,2.0
+Arizona,Morning Consult,2024-08-30,2024-09-08,901.0,49.05,46.89,4.060000000000002
+Arizona,Morning Consult,2024-08-23,2024-08-27,776.0,47.5,48.5,4.0
+Arizona,Morning Consult,2024-08-23,2024-08-27,805.0,47.5,48.5,4.0
+Arizona,Morning Consult,2024-09-19,2024-09-25,926.0,46.5,49.5,4.0
+Arizona,Morning Consult,2024-09-19,2024-09-25,977.0,46.5,49.5,4.0
+Arizona,Morning Consult,2024-10-06,2024-10-15,653.0,48.0,49.0,3.0
+Arizona,Morning Consult,2024-10-16,2024-10-20,861.0,48.5,48.5,3.0
+Arizona,Morning Consult,2024-10-16,2024-10-20,915.0,48.5,48.5,3.0
+Arizona,Morning Consult,2024-07-24,2024-07-28,804.0,45.5,48.5,6.0
+Arizona,Morning Consult,2024-09-09,2024-09-18,862.0,47.35,48.37,4.280000000000001
+Arizona,National Research,2024-09-25,2024-09-29,600.0,46.0,47.0,7.0
+Arizona,Navigator,2024-07-31,2024-08-08,600.0,47.5,45.5,7.0
+Arizona,Noble Predictive Insights,2024-08-12,2024-08-16,1003.0,45.5,43.5,11.0
+Arizona,OnMessage Inc.,2024-09-24,2024-10-02,500.0,47.0,45.0,8.0
+Arizona,PPP,2024-07-29,2024-07-30,618.0,49.0,47.0,4.0
+Arizona,Patriot Polling,2024-09-01,2024-09-03,804.0,48.5,46.9,4.600000000000001
+Arizona,Peak Insights,2024-07-31,2024-08-05,800.0,44.0,42.0,14.0
+Arizona,Public Opinion Strategies,2024-07-23,2024-07-29,400.0,48.0,43.0,9.0
+Arizona,RABA Research,2024-10-25,2024-10-27,589.0,43.0,45.0,12.0
+Arizona,RMG Research,2024-09-30,2024-10-02,783.0,50.0,46.0,4.0
+Arizona,Redfield & Wilton Strategies,2024-10-20,2024-10-22,710.0,48.0,46.0,6.0
+Arizona,Redfield & Wilton Strategies,2024-09-27,2024-10-02,555.0,48.0,47.0,5.0
+Arizona,Redfield & Wilton Strategies,2024-09-06,2024-09-09,765.0,47.0,46.0,7.0
+Arizona,Redfield & Wilton Strategies,2024-10-12,2024-10-14,1141.0,48.0,46.0,6.0
+Arizona,Redfield & Wilton Strategies,2024-10-25,2024-10-27,901.0,49.0,47.0,4.0
+Arizona,Redfield & Wilton Strategies,2024-07-22,2024-07-24,510.0,46.0,43.0,11.0
+Arizona,Redfield & Wilton Strategies,2024-08-25,2024-08-28,530.0,46.0,45.0,9.0
+Arizona,Redfield & Wilton Strategies,2024-10-16,2024-10-18,691.0,49.0,46.0,5.0
+Arizona,Redfield & Wilton Strategies,2024-07-31,2024-08-03,567.0,43.0,44.0,13.0
+Arizona,Redfield & Wilton Strategies,2024-08-12,2024-08-15,592.0,44.0,43.0,13.0
+Arizona,Redfield & Wilton Strategies,2024-09-16,2024-09-19,789.0,47.0,47.0,6.0
+Arizona,Siena/NYT,2024-10-07,2024-10-10,808.0,50.25,45.0,4.75
+Arizona,Siena/NYT,2024-08-08,2024-08-15,677.0,43.75,47.75,8.5
+Arizona,Siena/NYT,2024-09-17,2024-09-21,713.0,48.5,43.75,7.75
+Arizona,SoCal Strategies,2024-10-05,2024-10-07,735.0,47.8,48.7,3.5
+Arizona,Spry Strategies,2024-08-14,2024-08-20,600.0,47.55,46.85,5.600000000000001
+Arizona,Strategies 360,2024-08-07,2024-08-14,400.0,46.0,47.0,7.0
+Arizona,Suffolk,2024-09-19,2024-09-24,500.0,48.4,42.4,9.200000000000003
+Arizona,TIPP,2024-09-03,2024-09-05,949.0,47.25,47.4,5.350000000000001
+Arizona,TIPP,2024-09-03,2024-09-05,1015.0,45.849999999999994,45.9,8.250000000000007
+Arizona,Trafalgar Group,2024-09-11,2024-09-12,1088.0,47.1,45.5,7.399999999999999
+Arizona,Trafalgar Group,2024-08-06,2024-08-08,1092.0,47.7,46.5,5.799999999999997
+Arizona,Trafalgar Group,2024-10-10,2024-10-13,1090.0,47.5,46.0,6.5
+Arizona,Trafalgar Group,2024-10-24,2024-10-26,1094.0,48.1,46.0,5.899999999999999
+Arizona,U. Arizona/TrueDot,2024-10-12,2024-10-20,846.0,45.48,46.15,8.370000000000005
+Arizona,U. Arizona/TrueDot,2024-08-28,2024-08-31,1155.0,45.75,41.8,12.450000000000003
+Arizona,Washington Post/George Mason University,2024-09-30,2024-10-15,580.0,49.5,45.0,5.5
+Arizona,YouGov,2024-10-11,2024-10-16,1435.0,51.0,48.0,1.0
+Arkansas,Hendrix College,2024-09-05,2024-09-06,696.0,55.0,40.0,5.0
+California,ActiVote,2024-10-07,2024-10-27,400.0,37.2,62.8,0.0
+California,ActiVote,2024-08-02,2024-08-19,400.0,34.7,65.3,0.0
+California,ActiVote,2024-08-21,2024-09-21,400.0,36.0,64.0,0.0
+California,ActiVote,2024-09-22,2024-10-10,400.0,36.5,63.5,0.0
+California,Emerson,2024-10-12,2024-10-14,1000.0,36.6,61.0,2.3999999999999986
+California,Emerson,2024-09-03,2024-09-05,815.0,38.0,60.8,1.2000000000000028
+California,YouGov,2024-10-07,2024-10-17,1139.0,34.0,63.0,3.0
+California,Capitol Weekly,2024-09-11,2024-09-16,1054.0,34.0,59.0,7.0
+California,Capitol Weekly,2024-08-23,2024-08-26,3154.0,35.5,58.0,6.5
+California,Capitol Weekly,2024-07-25,2024-07-27,1904.0,35.0,59.0,6.0
+California,Capitol Weekly,2024-08-13,2024-08-15,1738.0,36.5,57.0,6.5
+California,PPIC,2024-08-29,2024-09-09,1071.0,29.0,60.0,11.0
+California,PPIC,2024-10-07,2024-10-15,1137.0,33.0,59.0,8.0
+California,UC Berkeley,2024-09-25,2024-10-01,3045.0,35.0,57.0,8.0
+California,UC Berkeley,2024-07-31,2024-08-11,3765.0,34.0,59.0,7.0
+California,USC Dornsife/CSU Long Beach/Cal Poly Pomona,2024-09-12,2024-09-25,1685.0,35.5,57.7,6.799999999999997
+Colorado,ActiVote,2024-09-15,2024-10-19,400.0,41.3,58.7,0.0
+Colorado,Morning Consult,2024-08-30,2024-09-08,498.0,40.08,54.8,5.1200000000000045
+Colorado,Morning Consult,2024-09-09,2024-09-18,512.0,42.42,52.5,5.079999999999998
+Colorado,Keating Research,2024-09-11,2024-09-14,500.0,42.0,53.0,5.0
+Connecticut,MassINC Polling Group,2024-09-12,2024-09-18,800.0,37.0,53.0,10.0
+Delaware,Slingshot Strategies,2024-09-19,2024-09-21,500.0,37.0,54.0,9.0
+Delaware,University of Delaware,2024-09-11,2024-09-19,383.0,35.9,55.6,8.499999999999993
+Florida,Florida Atlantic University/Mainstreet Research,2024-10-19,2024-10-27,897.0,53.0,44.0,3.0
+Florida,Florida Atlantic University/Mainstreet Research,2024-10-19,2024-10-27,913.0,53.0,44.0,3.0
+Florida,Florida Atlantic University/Mainstreet Research,2024-08-10,2024-08-11,1040.0,48.5,46.0,5.5
+Florida,Florida Atlantic University/Mainstreet Research,2024-08-10,2024-08-11,1055.0,48.0,45.0,7.0
+Florida,Bullfinch,2024-09-20,2024-09-23,600.0,48.0,47.0,5.0
+Florida,ActiVote,2024-10-07,2024-10-20,400.0,54.6,45.4,0.0
+Florida,ActiVote,2024-09-17,2024-10-06,400.0,53.0,47.0,0.0
+Florida,ActiVote,2024-10-11,2024-10-27,400.0,55.8,44.2,0.0
+Florida,ActiVote,2024-08-16,2024-08-31,400.0,53.4,46.6,0.0
+Florida,ActiVote,2024-08-05,2024-08-15,400.0,54.1,45.9,0.0
+Florida,CES / YouGov,2024-10-01,2024-10-25,5916.0,52.0,46.0,2.0
+Florida,CES / YouGov,2024-10-01,2024-10-25,5952.0,51.0,47.0,2.0
+Florida,Emerson,2024-09-03,2024-09-05,815.0,51.1,47.6,1.2999999999999972
+Florida,Emerson,2024-10-18,2024-10-20,860.0,53.6,45.9,0.5
+Florida,Marist,2024-10-03,2024-10-07,1257.0,51.0,47.0,2.0
+Florida,Marist,2024-10-03,2024-10-07,1410.0,51.0,47.0,2.0
+Florida,Morning Consult,2024-08-30,2024-09-08,3182.0,49.12,47.05,3.8300000000000054
+Florida,Morning Consult,2024-09-09,2024-09-18,2948.0,49.52,46.8,3.6799999999999997
+Florida,PPP,2024-09-25,2024-09-26,808.0,49.5,45.5,5.0
+Florida,PPP,2024-08-21,2024-08-22,837.0,49.5,46.0,4.5
+Florida,RMG Research,2024-09-25,2024-09-27,774.0,50.0,48.0,2.0
+Florida,RMG Research,2024-10-14,2024-10-17,788.0,52.0,47.0,1.0
+Florida,Redfield & Wilton Strategies,2024-09-27,2024-10-02,2946.0,49.0,45.0,6.0
+Florida,Redfield & Wilton Strategies,2024-09-06,2024-09-09,1465.0,50.0,44.0,6.0
+Florida,Redfield & Wilton Strategies,2024-10-12,2024-10-14,1009.0,50.0,44.0,6.0
+Florida,Redfield & Wilton Strategies,2024-07-22,2024-07-24,572.0,47.0,39.0,14.0
+Florida,Redfield & Wilton Strategies,2024-08-25,2024-08-28,850.0,48.0,43.0,9.0
+Florida,Redfield & Wilton Strategies,2024-10-16,2024-10-18,1275.0,49.0,45.0,6.0
+Florida,Redfield & Wilton Strategies,2024-07-31,2024-08-03,976.0,47.0,41.0,12.0
+Florida,Redfield & Wilton Strategies,2024-08-12,2024-08-15,1296.0,48.0,43.0,9.0
+Florida,Redfield & Wilton Strategies,2024-09-16,2024-09-19,1602.0,50.0,45.0,5.0
+Florida,Siena/NYT,2024-09-29,2024-10-06,622.0,53.75,40.5,5.75
+Florida,Suffolk,2024-08-07,2024-08-11,500.0,46.8,41.8,11.400000000000006
+Florida,YouGov,2024-10-07,2024-10-17,1094.0,51.0,46.0,3.0
+Florida,YouGov,2024-10-07,2024-10-17,1076.0,51.0,46.0,3.0
+Florida,McLaughlin,2024-08-06,2024-08-08,800.0,52.0,44.0,4.0
+Florida,McLaughlin,2024-09-23,2024-09-25,1200.0,51.0,46.0,3.0
+Florida,Cherry Communications,2024-10-10,2024-10-20,614.0,51.0,45.0,4.0
+Florida,Cherry Communications,2024-08-15,2024-08-26,600.0,52.0,45.0,3.0
+Florida,Hunt Research,2024-10-16,2024-10-22,1234.0,49.8,44.25,5.950000000000003
+Florida,Mason-Dixon,2024-10-01,2024-10-04,625.0,49.0,43.0,8.0
+Florida,St. Pete Polls,2024-10-23,2024-10-25,1227.0,50.3,44.6,5.100000000000001
+Florida,Tarrance,2024-10-05,2024-10-08,818.0,51.0,44.0,5.0
+Florida,U. North Florida,2024-07-24,2024-07-27,774.0,49.0,42.0,9.0
+Florida,U. North Florida,2024-10-07,2024-10-18,977.0,53.0,43.0,4.0
+Florida,Victory Insights,2024-09-22,2024-09-25,600.0,46.9,44.9,8.200000000000003
+Georgia,Florida Atlantic University/Mainstreet Research,2024-09-05,2024-09-06,567.0,47.0,45.0,8.0
+Georgia,Florida Atlantic University/Mainstreet Research,2024-09-05,2024-09-06,647.0,47.0,44.0,9.0
+Georgia,Bullfinch,2024-09-20,2024-09-23,600.0,47.0,49.0,4.0
+Georgia,ActiVote,2024-10-01,2024-10-17,400.0,50.7,49.3,0.0
+Georgia,ActiVote,2024-08-08,2024-09-10,400.0,50.2,49.8,0.0
+Georgia,AtlasIntel,2024-10-12,2024-10-17,1411.0,49.8,48.25,1.9500000000000028
+Georgia,AtlasIntel,2024-10-25,2024-10-29,1429.0,50.55,47.3,2.1500000000000057
+Georgia,AtlasIntel,2024-09-20,2024-09-25,1200.0,49.45,49.0,1.5499999999999972
+Georgia,Beacon/Shaw,2024-09-20,2024-09-24,707.0,48.0,50.5,1.5
+Georgia,Beacon/Shaw,2024-09-20,2024-09-24,1006.0,47.5,50.0,2.5
+Georgia,Beacon/Shaw,2024-08-23,2024-08-26,1014.0,47.0,49.0,4.0
+Georgia,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,405.0,47.0,47.0,6.0
+Georgia,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,411.0,48.5,47.0,4.5
+Georgia,CES / YouGov,2024-10-01,2024-10-25,2663.0,51.0,46.0,3.0
+Georgia,CES / YouGov,2024-10-01,2024-10-25,2682.0,49.0,48.0,3.0
+Georgia,CNN/SSRS,2024-08-23,2024-08-29,617.0,47.0,48.0,5.0
+Georgia,Emerson,2024-10-05,2024-10-08,1000.0,49.7,49.8,0.5
+Georgia,Emerson,2024-07-22,2024-07-23,800.0,48.5,46.099999999999994,5.400000000000006
+Georgia,Emerson,2024-08-25,2024-08-28,800.0,49.0,50.1,0.8999999999999986
+Georgia,Emerson,2024-09-15,2024-09-18,975.0,50.3,48.2,1.5
+Georgia,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,45.5,47.0,7.5
+Georgia,Fabrizio/Impact,2024-07-24,2024-07-31,600.0,47.0,46.0,7.0
+Georgia,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,50.0,45.0,5.0
+Georgia,Focaldata,2024-08-06,2024-08-16,651.0,49.46666666666667,46.43333333333334,4.099999999999994
+Georgia,Focaldata,2024-09-03,2024-09-16,1081.0,47.115,50.925,1.9600000000000009
+Georgia,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,400.0,47.0,46.5,6.5
+Georgia,InsiderAdvantage,2024-08-29,2024-08-31,800.0,47.6,48.3,4.100000000000001
+Georgia,InsiderAdvantage,2024-09-29,2024-09-30,800.0,48.1,48.3,3.6000000000000014
+Georgia,InsiderAdvantage,2024-10-14,2024-10-15,800.0,49.0,47.0,4.0
+Georgia,Marist,2024-09-19,2024-09-24,1220.0,50.0,49.0,1.0
+Georgia,Marist,2024-09-19,2024-09-24,1420.0,48.0,49.0,3.0
+Georgia,Marist,2024-10-17,2024-10-22,1193.0,49.0,49.0,2.0
+Georgia,Marist,2024-10-17,2024-10-22,1356.0,48.0,49.0,3.0
+Georgia,Morning Consult,2024-08-30,2024-09-08,1405.0,47.51,48.39,4.100000000000001
+Georgia,Morning Consult,2024-08-23,2024-08-26,801.0,46.5,48.0,5.5
+Georgia,Morning Consult,2024-08-23,2024-08-26,737.0,46.5,49.0,4.5
+Georgia,Morning Consult,2024-09-19,2024-09-25,913.0,48.5,48.5,3.0
+Georgia,Morning Consult,2024-09-19,2024-09-25,989.0,47.0,48.0,5.0
+Georgia,Morning Consult,2024-10-06,2024-10-15,1002.0,49.0,48.0,3.0
+Georgia,Morning Consult,2024-10-16,2024-10-20,855.0,49.5,48.0,2.5
+Georgia,Morning Consult,2024-10-16,2024-10-20,914.0,48.0,48.0,4.0
+Georgia,Morning Consult,2024-07-24,2024-07-28,799.0,46.0,46.0,8.0
+Georgia,Morning Consult,2024-09-09,2024-09-18,1347.0,48.63,47.68,3.6899999999999977
+Georgia,OnMessage Inc.,2024-09-24,2024-10-02,500.0,47.0,44.0,9.0
+Georgia,PPP,2024-07-29,2024-07-30,662.0,47.0,48.0,5.0
+Georgia,Patriot Polling,2024-09-01,2024-09-03,814.0,48.9,48.3,2.8000000000000043
+Georgia,RMG Research,2024-10-07,2024-10-10,731.0,50.0,47.0,3.0
+Georgia,Redfield & Wilton Strategies,2024-10-20,2024-10-22,1168.0,48.0,47.0,5.0
+Georgia,Redfield & Wilton Strategies,2024-10-08,2024-10-09,608.0,48.0,47.0,5.0
+Georgia,Redfield & Wilton Strategies,2024-09-27,2024-10-02,3783.0,47.0,47.0,6.0
+Georgia,Redfield & Wilton Strategies,2024-09-06,2024-09-09,562.0,49.0,47.0,4.0
+Georgia,Redfield & Wilton Strategies,2024-10-12,2024-10-14,637.0,47.0,47.0,6.0
+Georgia,Redfield & Wilton Strategies,2024-10-25,2024-10-27,1112.0,48.0,47.0,5.0
+Georgia,Redfield & Wilton Strategies,2024-07-22,2024-07-24,1180.0,47.0,42.0,11.0
+Georgia,Redfield & Wilton Strategies,2024-08-25,2024-08-28,699.0,44.0,42.0,14.0
+Georgia,Redfield & Wilton Strategies,2024-10-16,2024-10-18,1019.0,48.0,47.0,5.0
+Georgia,Redfield & Wilton Strategies,2024-07-31,2024-08-03,1128.0,46.0,44.0,10.0
+Georgia,Redfield & Wilton Strategies,2024-08-12,2024-08-15,692.0,46.0,46.0,8.0
+Georgia,Redfield & Wilton Strategies,2024-09-16,2024-09-19,1043.0,48.0,46.0,6.0
+Georgia,Siena/NYT,2024-09-17,2024-09-21,682.0,47.5,44.0,8.5
+Georgia,Siena/NYT,2024-08-09,2024-08-14,661.0,48.75,43.75,7.5
+Georgia,SoCal Strategies,2024-10-26,2024-10-27,658.0,50.0,49.0,1.0
+Georgia,Spry Strategies,2024-08-14,2024-08-20,600.0,48.7,47.849999999999994,3.450000000000003
+Georgia,TIPP,2024-09-16,2024-09-18,835.0,47.95,47.7,4.349999999999994
+Georgia,TIPP,2024-09-16,2024-09-18,1046.0,44.9,46.95,8.149999999999999
+Georgia,TIPP,2024-10-14,2024-10-16,813.0,48.5,48.65,2.8500000000000014
+Georgia,TIPP,2024-10-14,2024-10-16,1029.0,45.3,48.55,6.150000000000006
+Georgia,Trafalgar Group,2024-10-07,2024-10-08,1089.0,46.2,44.9,8.899999999999999
+Georgia,Trafalgar Group,2024-10-24,2024-10-26,1087.0,48.3,45.9,5.800000000000004
+Georgia,Trafalgar Group,2024-09-12,2024-09-15,1098.0,46.2,44.5,9.299999999999997
+Georgia,Washington Post/George Mason University,2024-09-30,2024-10-15,730.0,45.5,50.5,4.0
+Georgia,YouGov,2024-09-20,2024-09-24,1441.0,51.0,49.0,0.0
+Georgia,East Carolina University,2024-10-09,2024-10-14,701.0,48.9,45.8,5.300000000000004
+Georgia,Landmark Communications,2024-07-22,2024-07-22,400.0,46.9,45.5,7.600000000000001
+Georgia,Quinnipiac,2024-09-25,2024-09-29,942.0,50.0,44.5,5.5
+Georgia,Quinnipiac,2024-10-10,2024-10-14,1328.0,52.0,45.5,2.5
+Georgia,Quinnipiac,2024-09-04,2024-09-08,969.0,49.0,45.5,5.5
+Georgia,SoCal Research,2024-07-25,2024-07-26,505.0,49.9,46.4,3.700000000000003
+Georgia,U. Georgia SPIA,2024-09-09,2024-09-15,1000.0,46.9,44.4,8.700000000000003
+Georgia,U. Georgia SPIA,2024-10-07,2024-10-16,1000.0,47.0,43.4,9.600000000000001
+Illinois,ActiVote,2024-08-06,2024-08-29,400.0,42.2,57.8,0.0
+Illinois,ActiVote,2024-09-03,2024-10-05,400.0,41.2,58.8,0.0
+Illinois,ActiVote,2024-10-04,2024-10-28,400.0,41.6,58.4,0.0
+Indiana,ActiVote,2024-08-28,2024-09-30,400.0,57.0,43.0,0.0
+Indiana,ActiVote,2024-10-03,2024-10-28,400.0,57.7,42.3,0.0
+Indiana,Emerson,2024-09-12,2024-09-13,1000.0,57.9,40.7,1.3999999999999986
+Indiana,ARW Strategies,2024-09-23,2024-09-25,600.0,55.0,39.0,6.0
+Indiana,Lake Research,2024-08-26,2024-09-02,600.0,52.0,42.0,6.0
+Iowa,Cygnal,2024-09-27,2024-09-28,600.0,51.3,44.6,4.100000000000001
+Iowa,Selzer,2024-09-08,2024-09-11,656.0,47.0,43.0,10.0
+Kansas,Fort Hays State University,2024-09-26,2024-10-16,608.0,49.9,39.4,10.700000000000003
+Kansas,Fort Hays State University,2024-09-26,2024-10-16,517.0,48.2,43.2,8.599999999999994
+Maine,Digital Research,2024-09-10,2024-10-07,604.0,41.0,48.0,11.0
+Maine,Pan Atlantic Research,2024-09-05,2024-09-15,812.0,41.0,50.0,9.0
+Maine,U. New Hampshire,2024-07-23,2024-07-25,1445.0,42.5,51.0,6.5
+Maine,U. New Hampshire,2024-08-15,2024-08-19,951.0,39.5,56.5,4.0
+Maine CD-1,Digital Research,2024-09-10,2024-10-07,303.0,33.0,56.0,11.0
+Maine CD-1,Pan Atlantic Research,2024-09-05,2024-09-15,414.0,32.0,58.0,10.0
+Maine CD-1,U. New Hampshire,2024-07-23,2024-07-25,732.0,37.5,58.0,4.5
+Maine CD-1,U. New Hampshire,2024-08-15,2024-08-19,490.0,33.0,62.0,5.0
+Maine CD-1,U. New Hampshire,2024-08-15,2024-08-19,476.0,36.0,64.0,0.0
+Maine CD-2,Digital Research,2024-09-10,2024-10-07,301.0,49.0,40.0,11.0
+Maine CD-2,Pan Atlantic Research,2024-09-05,2024-09-15,398.0,49.0,42.0,9.0
+Maine CD-2,U. New Hampshire,2024-07-23,2024-07-25,701.0,47.5,44.5,8.0
+Maine CD-2,U. New Hampshire,2024-08-15,2024-08-19,432.0,47.0,52.0,1.0
+Maine CD-2,U. New Hampshire,2024-08-15,2024-08-19,443.0,44.0,49.0,7.0
+Maine CD-2,Axis Research,2024-10-17,2024-10-20,411.0,50.0,41.0,9.0
+Maryland,ActiVote,2024-09-08,2024-10-14,400.0,37.1,62.9,0.0
+Maryland,Emerson,2024-10-19,2024-10-21,865.0,34.4,64.0,1.5999999999999943
+Maryland,Emerson,2024-09-12,2024-09-13,890.0,33.3,65.3,1.4000000000000057
+Maryland,Fabrizio/Impact,2024-08-14,2024-08-20,600.0,30.5,61.5,8.0
+Maryland,Morning Consult,2024-08-30,2024-09-08,640.0,34.13,62.23,3.6400000000000077
+Maryland,Morning Consult,2024-10-06,2024-10-15,490.0,31.0,64.0,5.0
+Maryland,Morning Consult,2024-09-09,2024-09-18,578.0,33.04,61.41,5.550000000000011
+Maryland,PPP,2024-09-16,2024-09-17,543.0,33.0,64.0,3.0
+Maryland,Gonzales Research & Media Services,2024-08-24,2024-08-30,820.0,35.0,56.0,9.0
+Maryland,UMBC,2024-09-23,2024-09-28,863.0,35.0,57.0,8.0
+Maryland,University of Maryland/Washington Post,2024-09-19,2024-09-23,1012.0,31.5,62.5,6.0
+Maryland,University of Maryland/Washington Post,2024-10-17,2024-10-22,1000.0,33.0,61.0,6.0
+Massachusetts,ActiVote,2024-09-06,2024-10-16,400.0,33.4,66.6,0.0
+Massachusetts,Emerson,2024-10-24,2024-10-26,1000.0,37.2,60.2,2.5999999999999943
+Massachusetts,Suffolk,2024-10-01,2024-10-05,500.0,32.2,61.2,6.599999999999994
+Massachusetts,MassINC Polling Group,2024-09-12,2024-09-18,800.0,33.5,61.5,5.0
+Massachusetts,U. New Hampshire,2024-09-12,2024-09-16,564.0,31.0,62.0,7.0
+Massachusetts,UMass Amherst/YouGov,2024-10-03,2024-10-10,700.0,30.0,56.0,14.0
+Michigan,Bullfinch,2024-08-08,2024-08-11,500.0,41.5,47.0,11.5
+Michigan,Bullfinch,2024-10-11,2024-10-17,600.0,44.0,52.0,4.0
+Michigan,Cygnal,2024-08-28,2024-09-01,600.0,46.0,47.0,7.0
+Michigan,ActiVote,2024-09-15,2024-10-09,400.0,48.8,51.2,0.0
+Michigan,ActiVote,2024-07-28,2024-08-28,400.0,49.9,50.1,0.0
+Michigan,AtlasIntel,2024-10-12,2024-10-17,1529.0,49.900000000000006,47.05,3.049999999999997
+Michigan,AtlasIntel,2024-10-25,2024-10-29,983.0,49.25,48.0,2.75
+Michigan,AtlasIntel,2024-09-20,2024-09-25,918.0,50.5,46.900000000000006,2.5999999999999943
+Michigan,Beacon/Shaw,2024-07-22,2024-07-24,1012.0,47.0,46.0,7.0
+Michigan,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,406.0,45.0,47.5,7.5
+Michigan,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,416.0,47.0,50.0,3.0
+Michigan,CES / YouGov,2024-10-01,2024-10-25,2336.0,46.0,51.0,3.0
+Michigan,CES / YouGov,2024-10-01,2024-10-25,2347.0,45.0,52.0,3.0
+Michigan,CNN/SSRS,2024-08-23,2024-08-29,708.0,43.0,48.0,9.0
+Michigan,CNN/SSRS,2024-10-23,2024-10-28,726.0,43.0,48.0,9.0
+Michigan,Emerson,2024-10-25,2024-10-27,1000.0,49.8,49.3,0.9000000000000057
+Michigan,Emerson,2024-10-05,2024-10-08,950.0,49.6,49.7,0.6999999999999957
+Michigan,Emerson,2024-07-22,2024-07-23,800.0,47.5,46.45,6.049999999999997
+Michigan,Emerson,2024-08-25,2024-08-28,800.0,47.6,51.2,1.1999999999999957
+Michigan,Emerson,2024-09-15,2024-09-18,875.0,49.1,50.0,0.8999999999999986
+Michigan,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,46.0,48.0,6.0
+Michigan,Fabrizio/Impact,2024-08-07,2024-08-11,600.0,46.5,45.5,8.0
+Michigan,Fabrizio/Impact,2024-10-02,2024-10-08,600.0,47.5,47.0,5.5
+Michigan,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,49.0,48.0,3.0
+Michigan,Focaldata,2024-08-06,2024-08-16,702.0,44.23333333333333,51.300000000000004,4.466666666666669
+Michigan,Focaldata,2024-09-03,2024-09-16,1114.0,47.6425,49.6,2.7575000000000003
+Michigan,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,404.0,48.5,46.5,5.0
+Michigan,InsiderAdvantage,2024-10-08,2024-10-09,800.0,48.0,46.0,6.0
+Michigan,InsiderAdvantage,2024-09-11,2024-09-12,800.0,48.6,48.0,3.3999999999999986
+Michigan,InsiderAdvantage,2024-10-26,2024-10-27,800.0,48.5,47.9,3.6000000000000014
+Michigan,InsiderAdvantage,2024-08-06,2024-08-08,800.0,47.0,49.0,4.0
+Michigan,Marist,2024-09-12,2024-09-17,1138.0,47.0,52.0,1.0
+Michigan,Marist,2024-09-12,2024-09-17,1282.0,47.0,50.0,3.0
+Michigan,Morning Consult,2024-08-30,2024-09-08,1368.0,46.12,49.19,4.690000000000005
+Michigan,Morning Consult,2024-08-23,2024-08-26,702.0,46.0,48.5,5.5
+Michigan,Morning Consult,2024-08-23,2024-08-26,651.0,47.0,49.0,4.0
+Michigan,Morning Consult,2024-09-19,2024-09-25,800.0,46.5,50.0,3.5
+Michigan,Morning Consult,2024-09-19,2024-09-25,894.0,46.0,49.0,5.0
+Michigan,Morning Consult,2024-10-06,2024-10-15,1065.0,47.0,49.0,4.0
+Michigan,Morning Consult,2024-10-16,2024-10-20,705.0,46.0,49.5,4.5
+Michigan,Morning Consult,2024-10-16,2024-10-20,756.0,45.5,47.5,7.0
+Michigan,Morning Consult,2024-07-24,2024-07-28,706.0,40.5,52.0,7.5
+Michigan,Morning Consult,2024-09-09,2024-09-18,1297.0,44.46,51.97,3.5700000000000003
+Michigan,Navigator,2024-07-31,2024-08-08,600.0,45.0,45.5,9.5
+Michigan,OnMessage Inc.,2024-09-24,2024-10-02,500.0,46.0,48.0,6.0
+Michigan,Patriot Polling,2024-09-01,2024-09-03,822.0,47.6,48.4,4.0
+Michigan,Patriot Polling,2024-10-24,2024-10-26,796.0,50.0,49.0,1.0
+Michigan,Public Opinion Strategies,2024-07-23,2024-07-29,400.0,45.0,45.0,10.0
+Michigan,RMG Research,2024-09-24,2024-09-27,789.0,47.0,50.0,3.0
+Michigan,RMG Research,2024-10-10,2024-10-16,789.0,49.0,49.0,2.0
+Michigan,Redfield & Wilton Strategies,2024-10-20,2024-10-22,1115.0,47.0,47.0,6.0
+Michigan,Redfield & Wilton Strategies,2024-09-27,2024-10-02,839.0,46.0,48.0,6.0
+Michigan,Redfield & Wilton Strategies,2024-09-06,2024-09-09,556.0,45.0,48.0,7.0
+Michigan,Redfield & Wilton Strategies,2024-10-12,2024-10-14,682.0,47.0,47.0,6.0
+Michigan,Redfield & Wilton Strategies,2024-10-25,2024-10-27,728.0,48.0,49.0,3.0
+Michigan,Redfield & Wilton Strategies,2024-07-22,2024-07-24,512.0,44.0,41.0,15.0
+Michigan,Redfield & Wilton Strategies,2024-08-25,2024-08-28,761.0,44.0,47.0,9.0
+Michigan,Redfield & Wilton Strategies,2024-10-16,2024-10-18,1008.0,47.0,47.0,6.0
+Michigan,Redfield & Wilton Strategies,2024-07-31,2024-08-03,771.0,42.0,41.0,17.0
+Michigan,Redfield & Wilton Strategies,2024-08-12,2024-08-15,530.0,45.0,44.0,11.0
+Michigan,Redfield & Wilton Strategies,2024-09-16,2024-09-19,993.0,45.0,46.0,9.0
+Michigan,Remington,2024-09-16,2024-09-20,800.0,47.0,49.0,4.0
+Michigan,Siena/NYT,2024-08-05,2024-08-08,619.0,45.0,46.75,8.25
+Michigan,Siena/NYT,2024-09-21,2024-09-26,688.0,46.5,45.5,8.0
+Michigan,SoCal Strategies,2024-10-11,2024-10-13,692.0,48.0,49.0,3.0
+Michigan,Suffolk,2024-09-16,2024-09-18,500.0,45.4,47.6,7.0
+Michigan,Suffolk,2024-10-24,2024-10-27,500.0,47.4,47.0,5.600000000000001
+Michigan,TIPP,2024-08-20,2024-08-22,1001.0,43.0,45.05,11.950000000000003
+Michigan,TIPP,2024-08-20,2024-08-22,741.0,45.4,47.599999999999994,7.000000000000007
+Michigan,Trafalgar Group,2024-09-28,2024-09-30,1086.0,46.9,44.7,8.399999999999999
+Michigan,Trafalgar Group,2024-08-28,2024-08-30,1089.0,47.0,46.6,6.399999999999999
+Michigan,Trafalgar Group,2024-10-18,2024-10-20,1090.0,46.0,44.2,9.799999999999997
+Michigan,Washington Post/George Mason University,2024-09-30,2024-10-15,687.0,47.0,47.5,5.5
+Michigan,YouGov,2024-09-03,2024-09-06,1077.0,49.0,50.0,1.0
+Michigan,YouGov,2024-08-15,2024-08-23,500.0,42.5,44.0,13.5
+Michigan,Susquehanna,2024-10-23,2024-10-27,400.0,46.6,51.7,1.6999999999999957
+Michigan,Quinnipiac,2024-10-17,2024-10-21,1136.0,46.0,49.5,4.5
+Michigan,Quinnipiac,2024-09-12,2024-09-16,905.0,45.5,50.5,4.0
+Michigan,Quinnipiac,2024-10-03,2024-10-07,1007.0,50.5,47.0,2.5
+Michigan,SoCal Research,2024-07-25,2024-07-26,500.0,49.0,46.0,5.0
+Michigan,co/efficient,2024-09-04,2024-09-06,931.0,47.0,47.0,6.0
+Michigan,EPIC/MRA,2024-08-23,2024-08-26,600.0,46.5,45.5,8.0
+Michigan,Fabrizio Ward,2024-08-19,2024-08-21,400.0,45.5,45.0,9.5
+Michigan,Glengariff Group Inc.,2024-10-01,2024-10-04,600.0,44.2,46.8,9.0
+Michigan,Glengariff Group Inc.,2024-07-22,2024-07-24,600.0,41.46666666666666,41.6,16.933333333333337
+Michigan,Glengariff Group Inc.,2024-08-26,2024-08-28,600.0,44.7,43.5,11.799999999999997
+Michigan,Glengariff Group Inc.,2024-10-22,2024-10-24,600.0,43.7,46.7,9.599999999999994
+Michigan,MRG (Marketing Resource Group),2024-10-07,2024-10-11,600.0,44.0,44.9,11.100000000000001
+Michigan,Michigan State University/YouGov,2024-09-23,2024-10-10,845.0,47.6,52.4,0.0
+Michigan,Mitchell,2024-09-11,2024-09-11,580.0,47.0,47.5,5.5
+Michigan,Mitchell,2024-09-30,2024-09-30,709.0,48.0,47.5,4.5
+Michigan,Mitchell,2024-10-14,2024-10-14,589.0,47.75,47.2,5.049999999999997
+Michigan,Quantus Insights,2024-10-26,2024-10-28,844.0,48.5,49.2,2.299999999999997
+Michigan,RG Strategies,2024-09-19,2024-09-23,400.0,45.0,51.0,4.0
+Michigan,Research Co.,2024-10-05,2024-10-07,450.0,48.0,51.0,1.0
+Michigan,University of Massachusetts Lowell/YouGov,2024-09-11,2024-09-19,650.0,43.0,48.0,9.0
+Michigan,Z to A Research,2024-08-23,2024-08-26,500.0,47.0,47.0,6.0
+Minnesota,ActiVote,2024-09-10,2024-10-09,400.0,47.1,52.9,0.0
+Minnesota,Beacon/Shaw,2024-07-22,2024-07-24,1071.0,44.5,49.5,6.0
+Minnesota,CES / YouGov,2024-10-01,2024-10-25,1275.0,43.0,53.0,4.0
+Minnesota,CES / YouGov,2024-10-01,2024-10-25,1278.0,44.0,52.0,4.0
+Minnesota,Morning Consult,2024-08-30,2024-09-08,501.0,44.28,50.92,4.799999999999997
+Minnesota,Morning Consult,2024-09-09,2024-09-18,517.0,43.0,49.56,7.439999999999998
+Minnesota,Redfield & Wilton Strategies,2024-09-27,2024-10-02,551.0,43.0,51.0,6.0
+Minnesota,Redfield & Wilton Strategies,2024-09-06,2024-09-09,617.0,44.0,51.0,5.0
+Minnesota,Redfield & Wilton Strategies,2024-10-12,2024-10-14,544.0,43.0,51.0,6.0
+Minnesota,Redfield & Wilton Strategies,2024-07-22,2024-07-24,475.0,41.0,44.0,15.0
+Minnesota,Redfield & Wilton Strategies,2024-08-25,2024-08-28,426.0,42.0,51.0,7.0
+Minnesota,Redfield & Wilton Strategies,2024-07-31,2024-08-03,538.0,41.0,46.0,13.0
+Minnesota,Redfield & Wilton Strategies,2024-08-12,2024-08-15,475.0,40.0,47.0,13.0
+Minnesota,Redfield & Wilton Strategies,2024-09-16,2024-09-19,703.0,44.0,50.0,6.0
+Minnesota,Mason-Dixon,2024-09-16,2024-09-18,800.0,43.0,48.0,9.0
+Minnesota,Embold Research,2024-10-16,2024-10-22,1734.0,45.1,47.7,7.199999999999996
+Minnesota,Embold Research,2024-09-04,2024-09-08,1616.0,44.6,48.8,6.600000000000001
+Minnesota,SurveyUSA,2024-09-23,2024-09-26,646.0,44.0,50.0,6.0
+Minnesota,SurveyUSA,2024-07-23,2024-07-25,656.0,40.0,50.0,10.0
+Minnesota,SurveyUSA,2024-10-24,2024-10-28,728.0,43.0,51.0,6.0
+Minnesota,SurveyUSA,2024-08-27,2024-08-29,635.0,43.0,48.0,9.0
+Missouri,ActiVote,2024-10-06,2024-10-27,400.0,58.0,42.0,0.0
+Missouri,ActiVote,2024-07-25,2024-08-22,400.0,58.7,41.3,0.0
+Missouri,ActiVote,2024-09-08,2024-10-10,400.0,57.2,42.8,0.0
+Missouri,Emerson,2024-09-12,2024-09-13,850.0,55.2,43.4,1.3999999999999986
+Missouri,YouGov,2024-08-08,2024-08-16,900.0,54.0,41.0,5.0
+Missouri,Change Research,2024-09-11,2024-09-13,1237.0,50.0,41.0,9.0
+Missouri,GQR,2024-09-06,2024-09-12,645.0,55.0,44.0,1.0
+Montana,Emerson,2024-08-05,2024-08-06,1000.0,55.5,40.75,3.75
+Montana,Emerson,2024-10-23,2024-10-25,1000.0,58.6,39.6,1.7999999999999972
+Montana,RMG Research,2024-08-06,2024-08-14,540.0,57.0,39.0,4.0
+Montana,RMG Research,2024-09-12,2024-09-19,491.0,59.0,38.0,3.0
+Montana,Remington,2024-09-16,2024-09-20,800.0,56.0,39.0,5.0
+Montana,Siena/NYT,2024-10-05,2024-10-08,656.0,56.5,39.0,4.5
+Montana,American Pulse,2024-08-10,2024-08-12,538.0,51.7,37.8,10.5
+Montana,Fabrizio/David Binder Research,2024-08-25,2024-08-29,600.0,56.0,41.0,3.0
+Montana,MSU - Billings,2024-09-30,2024-10-16,760.0,52.0,34.0,14.0
+Nebraska,Bullfinch,2024-09-27,2024-10-01,400.0,53.0,42.0,5.0
+Nebraska,Siena/NYT,2024-10-23,2024-10-26,1194.0,54.0,39.25,6.75
+Nebraska,YouGov,2024-10-21,2024-10-28,1206.0,55.0,40.0,5.0
+Nebraska,Global Strategy Group,2024-08-26,2024-08-29,600.0,54.0,37.0,9.0
+Nebraska,SurveyUSA,2024-09-20,2024-09-23,558.0,56.0,40.0,4.0
+Nebraska,SurveyUSA,2024-08-23,2024-08-27,1293.0,54.0,37.0,9.0
+Nebraska,Change Research,2024-10-18,2024-10-21,815.0,55.0,41.0,4.0
+Nebraska,Change Research,2024-10-03,2024-10-08,895.0,58.0,38.0,4.0
+Nebraska,Torchlight Strategies,2024-10-05,2024-10-08,600.0,57.0,37.0,6.0
+Nebraska,Impact Research,2024-10-01,2024-10-03,600.0,58.0,38.0,4.0
+Nebraska CD-1,YouGov,2024-10-21,2024-10-28,408.0,51.0,43.0,6.0
+Nebraska CD-2,CNN/SSRS,2024-09-20,2024-09-25,749.0,42.0,53.0,5.0
+Nebraska CD-2,Remington,2024-08-14,2024-08-17,656.0,42.0,50.0,8.0
+Nebraska CD-2,Siena/NYT,2024-09-24,2024-09-26,680.0,42.0,50.75,7.25
+Nebraska CD-2,Siena/NYT,2024-10-23,2024-10-26,500.0,41.5,53.5,5.0
+Nebraska CD-2,YouGov,2024-10-21,2024-10-28,393.0,44.0,52.0,4.0
+Nebraska CD-2,SurveyUSA,2024-08-23,2024-08-27,507.0,42.0,47.0,11.0
+Nebraska CD-2,Change Research,2024-08-10,2024-08-17,437.0,42.0,47.0,11.0
+Nebraska CD-3,YouGov,2024-10-21,2024-10-28,404.0,70.0,25.0,5.0
+Nevada,AtlasIntel,2024-10-12,2024-10-17,1171.0,48.349999999999994,48.25,3.4000000000000057
+Nevada,AtlasIntel,2024-10-25,2024-10-29,1083.0,48.45,47.55,4.0
+Nevada,AtlasIntel,2024-09-20,2024-09-25,858.0,47.7,50.55,1.75
+Nevada,Beacon/Shaw,2024-08-23,2024-08-26,1026.0,47.0,49.0,4.0
+Nevada,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,403.0,47.5,43.5,9.0
+Nevada,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,409.0,47.0,48.0,5.0
+Nevada,CES / YouGov,2024-10-01,2024-10-25,933.0,47.0,51.0,2.0
+Nevada,CES / YouGov,2024-10-01,2024-10-25,940.0,44.0,53.0,3.0
+Nevada,CNN/SSRS,2024-08-23,2024-08-29,626.0,47.0,48.0,5.0
+Nevada,CNN/SSRS,2024-10-21,2024-10-26,683.0,48.0,47.0,5.0
+Nevada,Emerson,2024-10-05,2024-10-08,900.0,48.1,49.2,2.6999999999999957
+Nevada,Emerson,2024-08-25,2024-08-28,1168.0,48.8,49.4,1.8000000000000043
+Nevada,Emerson,2024-09-15,2024-09-18,895.0,49.0,48.8,2.200000000000003
+Nevada,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,48.0,42.5,9.5
+Nevada,Fabrizio/Impact,2024-10-08,2024-10-15,600.0,48.0,46.5,5.5
+Nevada,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,50.0,47.0,3.0
+Nevada,Focaldata,2024-08-06,2024-08-16,678.0,42.56666666666666,50.166666666666664,7.266666666666673
+Nevada,Focaldata,2024-09-03,2024-09-16,1038.0,47.175,50.5,2.325000000000003
+Nevada,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,407.0,47.0,47.5,5.5
+Nevada,InsiderAdvantage,2024-10-19,2024-10-20,800.0,47.9,47.7,4.399999999999999
+Nevada,InsiderAdvantage,2024-08-29,2024-08-31,800.0,47.9,46.5,5.600000000000001
+Nevada,InsiderAdvantage,2024-09-29,2024-09-30,800.0,49.3,48.4,2.3000000000000043
+Nevada,Morning Consult,2024-08-30,2024-09-08,516.0,48.45,47.58,3.969999999999999
+Nevada,Morning Consult,2024-08-23,2024-08-26,450.0,45.0,48.5,6.5
+Nevada,Morning Consult,2024-08-23,2024-08-26,416.0,46.0,49.0,5.0
+Nevada,Morning Consult,2024-09-19,2024-09-25,516.0,44.5,51.0,4.5
+Nevada,Morning Consult,2024-09-19,2024-09-25,574.0,44.5,47.5,8.0
+Nevada,Morning Consult,2024-10-06,2024-10-15,496.0,45.0,49.0,6.0
+Nevada,Morning Consult,2024-10-16,2024-10-20,420.0,48.0,48.5,3.5
+Nevada,Morning Consult,2024-10-16,2024-10-20,449.0,47.5,48.5,4.0
+Nevada,Morning Consult,2024-07-24,2024-07-28,454.0,44.0,45.0,11.0
+Nevada,Morning Consult,2024-09-09,2024-09-18,474.0,46.53,50.87,2.6000000000000014
+Nevada,Noble Predictive Insights,2024-09-09,2024-09-16,692.0,47.0,47.5,5.5
+Nevada,Noble Predictive Insights,2024-09-09,2024-09-16,812.0,44.0,47.0,9.0
+Nevada,OnMessage Inc.,2024-09-24,2024-10-02,500.0,47.0,45.0,8.0
+Nevada,OnMessage Inc.,2024-10-19,2024-10-22,600.0,50.0,47.0,3.0
+Nevada,Patriot Polling,2024-09-01,2024-09-03,788.0,47.0,46.8,6.200000000000003
+Nevada,Public Opinion Strategies,2024-07-23,2024-07-29,400.0,46.0,45.0,9.0
+Nevada,RMG Research,2024-09-30,2024-10-03,782.0,49.0,49.0,2.0
+Nevada,Redfield & Wilton Strategies,2024-10-20,2024-10-22,540.0,47.0,46.0,7.0
+Nevada,Redfield & Wilton Strategies,2024-09-27,2024-10-02,514.0,47.0,48.0,5.0
+Nevada,Redfield & Wilton Strategies,2024-09-06,2024-09-09,698.0,46.0,45.0,9.0
+Nevada,Redfield & Wilton Strategies,2024-10-12,2024-10-14,838.0,47.0,47.0,6.0
+Nevada,Redfield & Wilton Strategies,2024-10-25,2024-10-27,531.0,47.0,47.0,6.0
+Nevada,Redfield & Wilton Strategies,2024-07-22,2024-07-24,435.0,45.0,43.0,12.0
+Nevada,Redfield & Wilton Strategies,2024-08-25,2024-08-28,490.0,47.0,47.0,6.0
+Nevada,Redfield & Wilton Strategies,2024-10-16,2024-10-18,529.0,47.0,46.0,7.0
+Nevada,Redfield & Wilton Strategies,2024-07-31,2024-08-03,470.0,40.0,40.0,20.0
+Nevada,Redfield & Wilton Strategies,2024-08-12,2024-08-15,536.0,43.0,42.0,15.0
+Nevada,Redfield & Wilton Strategies,2024-09-16,2024-09-19,652.0,45.0,45.0,10.0
+Nevada,Remington,2024-09-16,2024-09-20,800.0,49.0,48.0,3.0
+Nevada,Siena/NYT,2024-08-12,2024-08-15,677.0,46.75,44.75,8.5
+Nevada,Strategies 360,2024-08-07,2024-08-14,350.0,42.0,48.0,10.0
+Nevada,TIPP,2024-09-23,2024-09-25,736.0,48.2,49.45,2.3499999999999943
+Nevada,TIPP,2024-09-23,2024-09-25,1044.0,43.599999999999994,47.8,8.600000000000009
+Nevada,Trafalgar Group,2024-09-11,2024-09-13,1079.0,43.5,45.3,11.200000000000003
+Nevada,Trafalgar Group,2024-10-25,2024-10-28,1082.0,47.6,47.8,4.600000000000001
+Nevada,Trafalgar Group,2024-08-06,2024-08-08,1087.0,48.2,44.8,7.0
+Nevada,Trafalgar Group,2024-10-10,2024-10-13,1088.0,44.8,45.6,9.600000000000001
+Nevada,Washington Post/George Mason University,2024-09-30,2024-10-15,652.0,46.0,47.5,6.5
+Nevada,Tarrance,2024-09-16,2024-09-19,600.0,44.0,47.0,9.0
+Nevada,Quantus Insights,2024-09-23,2024-09-25,628.0,48.8,47.7,3.5
+New Hampshire,CES / YouGov,2024-10-01,2024-10-25,375.0,45.0,52.0,3.0
+New Hampshire,CES / YouGov,2024-10-01,2024-10-25,380.0,45.0,52.0,3.0
+New Hampshire,Emerson,2024-07-26,2024-07-28,1000.0,44.5,50.05,5.450000000000003
+New Hampshire,Emerson,2024-10-21,2024-10-23,915.0,47.2,50.9,1.8999999999999986
+New Hampshire,U. New Hampshire,2024-07-23,2024-07-25,2875.0,44.5,51.0,4.5
+New Hampshire,U. New Hampshire,2024-09-12,2024-09-16,1695.0,43.0,54.0,3.0
+New Hampshire,U. New Hampshire,2024-08-15,2024-08-19,2048.0,45.0,51.0,4.0
+New Hampshire,University of Massachusetts Lowell/YouGov,2024-10-02,2024-10-10,600.0,41.0,50.0,9.0
+New Hampshire,Dartmouth Poll,2024-10-05,2024-10-18,2211.0,37.7,58.5,3.799999999999997
+New Hampshire,Praecones Analytica,2024-10-24,2024-10-26,622.0,50.2,49.8,0.0
+New Hampshire,St. Anselm,2024-09-11,2024-09-12,2241.0,43.0,51.0,6.0
+New Hampshire,St. Anselm,2024-10-01,2024-10-02,2104.0,44.0,51.0,5.0
+New Hampshire,St. Anselm,2024-07-24,2024-07-25,2083.0,44.0,50.0,6.0
+New Hampshire,St. Anselm,2024-08-13,2024-08-14,1656.0,44.0,51.0,5.0
+New Jersey,Cygnal,2024-10-23,2024-10-24,600.0,40.3,51.8,7.900000000000006
+New Jersey,ActiVote,2024-09-04,2024-10-02,400.0,44.0,56.0,0.0
+New Jersey,ActiVote,2024-10-02,2024-10-28,400.0,43.1,56.9,0.0
+New Jersey,Rutgers-Eagleton,2024-10-15,2024-10-22,451.0,35.0,55.0,10.0
+New Jersey,Rutgers-Eagleton,2024-10-15,2024-10-22,478.0,37.0,51.0,12.0
+New Mexico,Emerson,2024-08-20,2024-08-22,965.0,43.3,52.3,4.400000000000006
+New Mexico,Redfield & Wilton Strategies,2024-09-06,2024-09-09,521.0,44.0,49.0,7.0
+New Mexico,Redfield & Wilton Strategies,2024-10-12,2024-10-14,382.0,45.0,49.0,6.0
+New Mexico,Redfield & Wilton Strategies,2024-08-25,2024-08-28,488.0,40.0,47.0,13.0
+New Mexico,Redfield & Wilton Strategies,2024-07-31,2024-08-03,493.0,37.0,44.0,19.0
+New Mexico,Redfield & Wilton Strategies,2024-08-12,2024-08-15,453.0,41.0,47.0,12.0
+New Mexico,SurveyUSA,2024-09-12,2024-09-18,619.0,42.0,50.0,8.0
+New Mexico,Research & Polling,2024-09-06,2024-09-13,532.0,39.0,49.0,12.0
+New Mexico,Research & Polling,2024-10-10,2024-10-18,1024.0,41.0,50.0,9.0
+New York,Cygnal,2024-10-26,2024-10-27,600.0,39.0,56.8,4.200000000000003
+New York,ActiVote,2024-10-07,2024-10-27,400.0,41.0,59.0,0.0
+New York,ActiVote,2024-09-04,2024-09-30,400.0,39.4,60.6,0.0
+New York,ActiVote,2024-08-01,2024-08-21,400.0,41.7,58.3,0.0
+New York,Emerson,2024-09-23,2024-09-25,1000.0,41.6,55.5,2.8999999999999986
+New York,YouGov,2024-10-07,2024-10-17,1089.0,38.0,58.0,4.0
+New York,Siena,2024-09-11,2024-09-16,1003.0,41.0,53.5,5.5
+New York,Siena,2024-07-28,2024-08-01,1199.0,38.0,51.0,11.0
+New York,Siena,2024-10-13,2024-10-17,872.0,38.0,56.0,6.0
+North Carolina,Florida Atlantic University/Mainstreet Research,2024-09-05,2024-09-06,692.0,47.0,46.0,7.0
+North Carolina,Florida Atlantic University/Mainstreet Research,2024-09-05,2024-09-06,619.0,48.0,47.0,5.0
+North Carolina,Bullfinch,2024-09-20,2024-09-23,600.0,48.0,49.0,3.0
+North Carolina,Cygnal,2024-10-12,2024-10-14,600.0,47.2,46.6,6.199999999999996
+North Carolina,Cygnal,2024-09-15,2024-09-16,600.0,45.6,45.3,9.100000000000001
+North Carolina,Cygnal,2024-08-04,2024-08-05,600.0,47.2,44.1,8.699999999999996
+North Carolina,ActiVote,2024-09-07,2024-10-06,400.0,49.2,50.8,0.0
+North Carolina,ActiVote,2024-08-06,2024-08-31,400.0,50.0,50.0,0.0
+North Carolina,AtlasIntel,2024-10-12,2024-10-17,1674.0,48.8,50.0,1.2000000000000028
+North Carolina,AtlasIntel,2024-10-25,2024-10-29,1665.0,48.4,48.7,2.8999999999999986
+North Carolina,AtlasIntel,2024-09-20,2024-09-25,1173.0,47.7,50.65,1.6499999999999986
+North Carolina,Beacon/Shaw,2024-09-20,2024-09-24,991.0,47.5,49.0,3.5
+North Carolina,Beacon/Shaw,2024-09-20,2024-09-24,787.0,49.5,48.0,2.5
+North Carolina,Beacon/Shaw,2024-08-23,2024-08-26,999.0,49.0,48.0,3.0
+North Carolina,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,403.0,45.5,47.0,7.5
+North Carolina,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,411.0,47.5,49.0,3.5
+North Carolina,CES / YouGov,2024-10-01,2024-10-25,2308.0,50.0,48.0,2.0
+North Carolina,CES / YouGov,2024-10-01,2024-10-25,2330.0,48.0,49.0,3.0
+North Carolina,CNN/SSRS,2024-09-20,2024-09-25,931.0,48.0,48.0,4.0
+North Carolina,Emerson,2024-09-27,2024-09-28,850.0,49.9,49.1,1.0
+North Carolina,Emerson,2024-10-21,2024-10-22,950.0,50.2,48.2,1.5999999999999943
+North Carolina,Emerson,2024-10-05,2024-10-08,1000.0,49.9,49.0,1.1000000000000014
+North Carolina,Emerson,2024-08-25,2024-08-28,775.0,49.9,49.0,1.1000000000000014
+North Carolina,Emerson,2024-09-15,2024-09-18,1000.0,49.3,49.7,1.0
+North Carolina,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,46.5,46.0,7.5
+North Carolina,Fabrizio/Impact,2024-09-11,2024-09-17,600.0,49.0,46.5,4.5
+North Carolina,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,48.0,47.0,5.0
+North Carolina,Focaldata,2024-08-06,2024-08-16,702.0,46.26666666666667,47.93333333333334,5.79999999999999
+North Carolina,Focaldata,2024-09-03,2024-09-16,1094.0,50.475,47.144999999999996,2.3800000000000026
+North Carolina,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,401.0,47.5,47.0,5.5
+North Carolina,InsiderAdvantage,2024-10-19,2024-10-20,800.0,48.7,46.8,4.5
+North Carolina,InsiderAdvantage,2024-08-29,2024-08-31,800.0,49.2,48.4,2.3999999999999986
+North Carolina,InsiderAdvantage,2024-09-29,2024-09-30,800.0,49.5,49.3,1.2000000000000028
+North Carolina,Marist,2024-09-19,2024-09-24,1348.0,49.0,49.0,2.0
+North Carolina,Marist,2024-09-19,2024-09-24,1507.0,48.0,49.0,3.0
+North Carolina,Marist,2024-10-17,2024-10-22,1410.0,49.0,48.0,3.0
+North Carolina,Marist,2024-10-17,2024-10-22,1226.0,50.0,48.0,2.0
+North Carolina,Morning Consult,2024-08-30,2024-09-08,1369.0,47.82,48.22,3.960000000000001
+North Carolina,Morning Consult,2024-08-23,2024-08-26,700.0,47.0,48.5,4.5
+North Carolina,Morning Consult,2024-08-23,2024-08-26,645.0,48.5,48.5,3.0
+North Carolina,Morning Consult,2024-09-19,2024-09-25,828.0,47.5,49.5,3.0
+North Carolina,Morning Consult,2024-09-19,2024-09-25,889.0,46.5,49.0,4.5
+North Carolina,Morning Consult,2024-10-06,2024-10-15,1072.0,49.0,48.0,3.0
+North Carolina,Morning Consult,2024-10-16,2024-10-20,702.0,49.5,48.0,2.5
+North Carolina,Morning Consult,2024-10-16,2024-10-20,755.0,49.5,46.5,4.0
+North Carolina,Morning Consult,2024-07-24,2024-07-28,706.0,46.5,45.0,8.5
+North Carolina,Morning Consult,2024-09-09,2024-09-18,1314.0,47.16,49.33,3.510000000000005
+North Carolina,Navigator,2024-07-31,2024-08-08,600.0,47.0,46.0,7.0
+North Carolina,Patriot Polling,2024-09-01,2024-09-03,804.0,50.0,47.5,2.5
+North Carolina,RMG Research,2024-09-25,2024-09-27,780.0,51.0,47.0,2.0
+North Carolina,Redfield & Wilton Strategies,2024-10-20,2024-10-22,679.0,48.0,47.0,5.0
+North Carolina,Redfield & Wilton Strategies,2024-09-27,2024-10-02,753.0,47.0,45.0,8.0
+North Carolina,Redfield & Wilton Strategies,2024-09-06,2024-09-09,495.0,44.0,45.0,11.0
+North Carolina,Redfield & Wilton Strategies,2024-10-12,2024-10-14,620.0,48.0,46.0,6.0
+North Carolina,Redfield & Wilton Strategies,2024-10-25,2024-10-27,770.0,48.0,46.0,6.0
+North Carolina,Redfield & Wilton Strategies,2024-07-22,2024-07-24,586.0,46.0,43.0,11.0
+North Carolina,Redfield & Wilton Strategies,2024-08-25,2024-08-28,812.0,45.0,44.0,11.0
+North Carolina,Redfield & Wilton Strategies,2024-10-16,2024-10-18,843.0,48.0,45.0,7.0
+North Carolina,Redfield & Wilton Strategies,2024-07-31,2024-08-03,714.0,44.0,41.0,15.0
+North Carolina,Redfield & Wilton Strategies,2024-08-12,2024-08-15,601.0,47.0,44.0,9.0
+North Carolina,Redfield & Wilton Strategies,2024-09-16,2024-09-19,868.0,48.0,47.0,5.0
+North Carolina,Siena/NYT,2024-09-17,2024-09-21,682.0,47.5,46.25,6.25
+North Carolina,Siena/NYT,2024-08-09,2024-08-14,655.0,44.75,47.25,8.0
+North Carolina,SoCal Strategies,2024-10-20,2024-10-21,702.0,48.7,46.3,5.0
+North Carolina,SoCal Strategies,2024-08-26,2024-08-27,612.0,50.0,46.0,4.0
+North Carolina,Spry Strategies,2024-08-14,2024-08-20,600.0,46.25,46.85,6.899999999999999
+North Carolina,TIPP,2024-09-11,2024-09-13,973.0,48.9,45.9,5.200000000000003
+North Carolina,Trafalgar Group,2024-09-11,2024-09-12,1094.0,48.4,46.0,5.600000000000001
+North Carolina,Trafalgar Group,2024-10-25,2024-10-28,1091.0,49.4,46.2,4.399999999999999
+North Carolina,Trafalgar Group,2024-08-06,2024-08-08,1082.0,48.9,45.2,5.899999999999999
+North Carolina,Trafalgar Group,2024-10-10,2024-10-13,1085.0,46.5,44.6,8.899999999999999
+North Carolina,Washington Post/George Mason University,2024-09-30,2024-10-15,965.0,49.5,46.0,4.5
+North Carolina,Victory Insights,2024-09-16,2024-09-18,600.0,48.5,44.9,6.600000000000001
+North Carolina,East Carolina University,2024-09-23,2024-09-26,1005.0,49.4,47.1,3.5
+North Carolina,East Carolina University,2024-08-26,2024-08-28,920.0,47.6,46.9,5.5
+North Carolina,Quinnipiac,2024-09-25,2024-09-29,953.0,49.0,47.5,3.5
+North Carolina,Quinnipiac,2024-10-10,2024-10-14,1031.0,47.0,49.5,3.5
+North Carolina,Quinnipiac,2024-09-04,2024-09-08,940.0,46.5,49.5,4.0
+North Carolina,SurveyUSA,2024-10-23,2024-10-26,853.0,47.0,47.0,6.0
+North Carolina,SurveyUSA,2024-09-04,2024-09-07,676.0,46.0,49.0,5.0
+North Carolina,Elon U.,2024-10-10,2024-10-17,800.0,46.0,46.0,8.0
+North Carolina,Elon U.,2024-09-04,2024-09-13,800.0,45.0,46.0,9.0
+North Carolina,High Point University,2024-09-20,2024-09-29,589.0,48.0,48.0,4.0
+North Carolina,High Point University,2024-09-20,2024-09-29,814.0,46.0,48.0,6.0
+North Carolina,Meredith College,2024-09-18,2024-09-20,802.0,48.0,48.0,4.0
+North Carolina,Quantus Polls and News,2024-09-11,2024-09-12,815.0,48.4,46.8,4.800000000000004
+North Carolina,SurveyUSA/High Point University,2024-10-17,2024-10-20,1164.0,46.0,47.0,7.0
+North Carolina,SurveyUSA/High Point University,2024-08-19,2024-08-21,1053.0,45.0,46.0,9.0
+North Carolina,SurveyUSA/High Point University,2024-08-19,2024-08-21,941.0,47.0,47.0,6.0
+North Carolina,The Washington Post,2024-09-25,2024-09-29,1001.0,50.0,47.5,2.5
+North Carolina,YouGov Blue,2024-08-05,2024-08-09,802.0,46.0,46.0,8.0
+North Dakota,WPAi,2024-09-28,2024-09-30,500.0,59.0,32.0,9.0
+North Dakota,Lake Research,2024-09-23,2024-09-26,500.0,50.0,40.0,10.0
+Ohio,ActiVote,2024-10-05,2024-10-28,400.0,54.1,45.9,0.0
+Ohio,ActiVote,2024-08-28,2024-09-30,400.0,53.6,46.4,0.0
+Ohio,ActiVote,2024-08-02,2024-08-22,400.0,56.2,43.8,0.0
+Ohio,CES / YouGov,2024-10-01,2024-10-25,3091.0,52.0,45.0,3.0
+Ohio,CES / YouGov,2024-10-01,2024-10-25,3120.0,52.0,45.0,3.0
+Ohio,Emerson,2024-09-03,2024-09-05,945.0,54.3,44.7,1.0
+Ohio,Fabrizio/Impact,2024-07-23,2024-07-28,600.0,50.0,40.5,9.5
+Ohio,Focaldata,2024-09-03,2024-09-16,1115.0,52.295,45.6775,2.0274999999999963
+Ohio,Marist,2024-10-03,2024-10-07,1327.0,52.0,46.0,2.0
+Ohio,Marist,2024-10-03,2024-10-07,1511.0,52.0,46.0,2.0
+Ohio,Morning Consult,2024-08-30,2024-09-08,1558.0,51.92,43.58,4.5
+Ohio,Morning Consult,2024-10-06,2024-10-15,1243.0,52.0,45.0,3.0
+Ohio,Morning Consult,2024-09-09,2024-09-18,1488.0,52.16,43.02,4.82
+Ohio,OnMessage Inc.,2024-10-19,2024-10-22,600.0,52.0,44.0,4.0
+Ohio,RMG Research,2024-09-18,2024-09-20,781.0,54.0,43.0,3.0
+Ohio,Siena/NYT,2024-09-21,2024-09-26,687.0,48.75,44.0,7.25
+Ohio,SoCal Strategies,2024-08-31,2024-09-01,600.0,52.0,43.0,5.0
+Ohio,Trafalgar Group,2024-10-25,2024-10-28,1127.0,51.7,45.6,2.6999999999999957
+Ohio,The Washington Post,2024-10-03,2024-10-07,1002.0,51.0,44.5,4.5
+Ohio,Bowling Green State University/YouGov,2024-10-10,2024-10-21,1000.0,50.0,43.0,7.0
+Ohio,Bowling Green State University/YouGov,2024-09-18,2024-09-27,1000.0,51.0,44.0,5.0
+Oklahoma,WPAi,2024-10-16,2024-10-18,502.0,65.0,29.0,6.0
+Oklahoma,ActiVote,2024-10-03,2024-10-29,400.0,66.8,33.2,0.0
+Oklahoma,ActiVote,2024-09-13,2024-10-19,400.0,66.1,33.9,7.105427357601002e-15
+Oklahoma,SoonerPoll.com,2024-08-24,2024-08-31,323.0,56.0,39.9,4.100000000000001
+Oregon,PPP,2024-10-16,2024-10-17,716.0,41.0,53.0,6.0
+Oregon,Hoffman Research,2024-07-24,2024-07-26,700.0,42.0,47.0,11.0
+Pennsylvania,Bullfinch,2024-09-26,2024-09-29,800.0,46.0,50.0,4.0
+Pennsylvania,Bullfinch,2024-07-23,2024-07-25,800.0,45.5,46.0,8.5
+Pennsylvania,Bullfinch,2024-08-08,2024-08-11,500.0,43.0,47.0,10.0
+Pennsylvania,Bullfinch,2024-10-11,2024-10-17,600.0,48.5,49.0,2.5
+Pennsylvania,Cygnal,2024-08-14,2024-08-15,800.0,45.7,45.599999999999994,8.700000000000003
+Pennsylvania,ActiVote,2024-09-01,2024-09-25,400.0,48.4,51.6,0.0
+Pennsylvania,ActiVote,2024-08-05,2024-08-22,400.0,48.9,51.1,0.0
+Pennsylvania,AtlasIntel,2024-10-12,2024-10-17,2048.0,49.849999999999994,46.95,3.200000000000003
+Pennsylvania,AtlasIntel,2024-10-25,2024-10-29,1299.0,49.150000000000006,46.75,4.099999999999994
+Pennsylvania,AtlasIntel,2024-09-20,2024-09-25,1775.0,50.8,48.05,1.1500000000000057
+Pennsylvania,Beacon/Shaw,2024-09-20,2024-09-24,1021.0,47.0,49.0,4.0
+Pennsylvania,Beacon/Shaw,2024-09-20,2024-09-24,775.0,48.5,48.0,3.5
+Pennsylvania,Beacon/Shaw,2024-07-22,2024-07-24,1034.0,46.25,47.0,6.75
+Pennsylvania,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,411.0,45.5,48.5,6.0
+Pennsylvania,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,474.0,48.0,49.5,2.5
+Pennsylvania,CES / YouGov,2024-10-01,2024-10-25,3685.0,48.0,49.0,3.0
+Pennsylvania,CES / YouGov,2024-10-01,2024-10-25,3708.0,47.0,50.0,3.0
+Pennsylvania,CNN/SSRS,2024-08-23,2024-08-29,789.0,47.0,47.0,6.0
+Pennsylvania,CNN/SSRS,2024-10-23,2024-10-28,819.0,48.0,48.0,4.0
+Pennsylvania,Emerson,2024-09-27,2024-09-28,1000.0,48.8,49.3,1.9000000000000057
+Pennsylvania,Emerson,2024-10-21,2024-10-22,860.0,50.7,49.0,0.29999999999999716
+Pennsylvania,Emerson,2024-10-05,2024-10-08,1000.0,49.7,49.0,1.2999999999999972
+Pennsylvania,Emerson,2024-07-22,2024-07-23,850.0,48.6,46.599999999999994,4.800000000000004
+Pennsylvania,Emerson,2024-08-25,2024-08-28,950.0,49.4,49.4,1.2000000000000028
+Pennsylvania,Emerson,2024-09-15,2024-09-18,880.0,49.3,49.6,1.1000000000000014
+Pennsylvania,Emerson,2024-08-13,2024-08-14,1000.0,49.05,48.05,2.9000000000000057
+Pennsylvania,Fabrizio,2024-07-29,2024-08-01,600.0,46.5,46.5,7.0
+Pennsylvania,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,46.5,45.5,8.0
+Pennsylvania,Fabrizio/Impact,2024-09-17,2024-09-24,600.0,47.0,49.5,3.5
+Pennsylvania,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,49.0,48.0,3.0
+Pennsylvania,Focaldata,2024-08-06,2024-08-16,719.0,47.9,48.46666666666667,3.633333333333333
+Pennsylvania,Focaldata,2024-09-03,2024-09-16,1120.0,47.725,50.45,1.8249999999999957
+Pennsylvania,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,408.0,47.5,47.5,5.0
+Pennsylvania,InsiderAdvantage,2024-10-26,2024-10-27,800.0,48.4,47.4,4.200000000000003
+Pennsylvania,InsiderAdvantage,2024-10-07,2024-10-08,800.0,49.0,47.0,4.0
+Pennsylvania,InsiderAdvantage,2024-08-18,2024-08-19,800.0,46.6,46.0,7.399999999999999
+Pennsylvania,InsiderAdvantage,2024-09-14,2024-09-15,800.0,49.8,48.4,1.8000000000000043
+Pennsylvania,J.L. Partners,2024-10-05,2024-10-08,800.0,47.0,47.0,6.0
+Pennsylvania,Marist,2024-09-12,2024-09-17,1476.0,49.0,49.0,2.0
+Pennsylvania,Marist,2024-09-12,2024-09-17,1663.0,48.0,49.0,3.0
+Pennsylvania,Morning Consult,2024-08-30,2024-09-08,1910.0,46.34,49.34,4.319999999999993
+Pennsylvania,Morning Consult,2024-08-23,2024-08-26,803.0,46.0,51.0,3.0
+Pennsylvania,Morning Consult,2024-08-23,2024-08-26,758.0,47.0,51.0,2.0
+Pennsylvania,Morning Consult,2024-09-19,2024-09-25,993.0,45.0,49.5,5.5
+Pennsylvania,Morning Consult,2024-09-19,2024-09-25,924.0,45.5,51.0,3.5
+Pennsylvania,Morning Consult,2024-10-06,2024-10-15,1395.0,48.0,49.0,3.0
+Pennsylvania,Morning Consult,2024-10-16,2024-10-20,812.0,48.0,50.0,2.0
+Pennsylvania,Morning Consult,2024-10-16,2024-10-20,866.0,48.0,48.0,4.0
+Pennsylvania,Morning Consult,2024-07-24,2024-07-28,804.0,48.0,45.0,7.0
+Pennsylvania,Morning Consult,2024-09-09,2024-09-18,1756.0,46.7,48.74,4.559999999999995
+Pennsylvania,Navigator,2024-07-31,2024-08-08,600.0,47.0,45.0,8.0
+Pennsylvania,North Star Opinion Research,2024-10-22,2024-10-26,600.0,47.0,47.0,6.0
+Pennsylvania,OnMessage Inc.,2024-09-28,2024-09-29,800.0,47.0,47.0,6.0
+Pennsylvania,OnMessage Inc.,2024-09-24,2024-10-02,500.0,46.0,46.0,8.0
+Pennsylvania,PPP,2024-07-29,2024-07-30,627.0,48.0,47.0,5.0
+Pennsylvania,Patriot Polling,2024-09-27,2024-09-29,816.0,50.0,49.0,1.0
+Pennsylvania,Patriot Polling,2024-09-01,2024-09-03,857.0,49.0,47.9,3.1000000000000014
+Pennsylvania,Public Opinion Strategies,2024-07-23,2024-07-29,400.0,45.0,48.0,7.0
+Pennsylvania,RMG Research,2024-09-18,2024-09-20,783.0,49.0,49.0,2.0
+Pennsylvania,Redfield & Wilton Strategies,2024-10-20,2024-10-22,1586.0,47.0,48.0,5.0
+Pennsylvania,Redfield & Wilton Strategies,2024-10-08,2024-10-09,707.0,48.0,46.0,6.0
+Pennsylvania,Redfield & Wilton Strategies,2024-09-27,2024-10-02,5686.0,47.0,48.0,5.0
+Pennsylvania,Redfield & Wilton Strategies,2024-09-06,2024-09-09,801.0,45.0,45.0,10.0
+Pennsylvania,Redfield & Wilton Strategies,2024-10-12,2024-10-14,1649.0,48.0,48.0,4.0
+Pennsylvania,Redfield & Wilton Strategies,2024-10-25,2024-10-27,1116.0,48.0,48.0,4.0
+Pennsylvania,Redfield & Wilton Strategies,2024-07-22,2024-07-24,851.0,46.0,42.0,12.0
+Pennsylvania,Redfield & Wilton Strategies,2024-08-25,2024-08-28,1071.0,45.0,46.0,9.0
+Pennsylvania,Redfield & Wilton Strategies,2024-10-16,2024-10-18,1256.0,48.0,48.0,4.0
+Pennsylvania,Redfield & Wilton Strategies,2024-07-31,2024-08-03,743.0,46.0,44.0,10.0
+Pennsylvania,Redfield & Wilton Strategies,2024-08-12,2024-08-15,825.0,44.0,46.0,10.0
+Pennsylvania,Redfield & Wilton Strategies,2024-09-16,2024-09-19,1086.0,47.0,47.0,6.0
+Pennsylvania,Remington,2024-09-16,2024-09-20,800.0,48.0,47.0,5.0
+Pennsylvania,Siena/NYT,2024-09-11,2024-09-16,1082.0,45.5,49.25,5.25
+Pennsylvania,Siena/NYT,2024-08-06,2024-08-09,693.0,44.75,47.5,7.75
+Pennsylvania,Siena/NYT,2024-10-07,2024-10-10,857.0,46.0,49.5,4.5
+Pennsylvania,SoCal Strategies,2024-08-23,2024-08-23,800.0,46.5,47.0,6.5
+Pennsylvania,SoCal Strategies,2024-08-23,2024-08-23,713.0,47.5,47.0,5.5
+Pennsylvania,Spry Strategies,2024-08-14,2024-08-20,600.0,46.1,47.25,6.649999999999999
+Pennsylvania,Suffolk,2024-09-11,2024-09-14,500.0,45.6,48.6,5.799999999999997
+Pennsylvania,TIPP,2024-10-07,2024-10-09,803.0,48.95,47.9,3.1499999999999986
+Pennsylvania,TIPP,2024-10-07,2024-10-09,1079.0,45.099999999999994,48.85,6.050000000000004
+Pennsylvania,Trafalgar Group,2024-08-06,2024-08-08,1078.0,45.9,44.4,9.700000000000003
+Pennsylvania,Trafalgar Group,2024-09-26,2024-09-29,1090.0,47.5,45.3,7.200000000000003
+Pennsylvania,Trafalgar Group,2024-10-17,2024-10-19,1084.0,46.3,43.3,10.400000000000006
+Pennsylvania,Trafalgar Group,2024-08-28,2024-08-30,1082.0,47.0,44.9,8.100000000000001
+Pennsylvania,Washington Post/George Mason University,2024-09-30,2024-10-15,707.0,46.5,49.0,4.5
+Pennsylvania,YouGov,2024-09-03,2024-09-06,1078.0,50.0,50.0,0.0
+Pennsylvania,YouGov,2024-10-07,2024-10-17,1062.0,47.0,50.0,3.0
+Pennsylvania,YouGov,2024-10-07,2024-10-17,1043.0,48.0,50.0,2.0
+Pennsylvania,YouGov,2024-08-15,2024-08-23,500.0,41.75,43.0,15.25
+Pennsylvania,YouGov,2024-10-22,2024-10-28,1273.0,49.0,49.0,2.0
+Pennsylvania,MassINC Polling Group,2024-09-12,2024-09-18,800.0,46.5,51.0,2.5
+Pennsylvania,Hunt Research,2024-10-02,2024-10-07,1037.0,47.599999999999994,47.0,5.400000000000006
+Pennsylvania,Susquehanna,2024-07-22,2024-07-28,600.0,43.0,47.0,10.0
+Pennsylvania,Susquehanna,2024-09-16,2024-09-22,700.0,46.0,46.0,8.0
+Pennsylvania,Susquehanna,2024-10-18,2024-10-22,500.0,45.8,46.0,8.200000000000003
+Pennsylvania,Quinnipiac,2024-08-08,2024-08-12,1738.0,46.0,49.0,5.0
+Pennsylvania,Quinnipiac,2024-10-24,2024-10-28,2186.0,48.0,46.5,5.5
+Pennsylvania,Quinnipiac,2024-09-12,2024-09-16,1331.0,45.5,51.0,3.5
+Pennsylvania,Quinnipiac,2024-10-03,2024-10-07,1412.0,46.5,49.0,4.5
+Pennsylvania,co/efficient,2024-09-04,2024-09-06,889.0,48.0,46.0,6.0
+Pennsylvania,Fabrizio Ward,2024-08-19,2024-08-21,400.0,45.0,44.5,10.5
+Pennsylvania,Quantus Insights,2024-10-17,2024-10-20,840.0,50.3,48.2,1.5
+Pennsylvania,RG Strategies,2024-09-19,2024-09-23,400.0,48.0,48.0,4.0
+Pennsylvania,Research Co.,2024-10-05,2024-10-07,450.0,49.0,50.0,1.0
+Pennsylvania,University of Massachusetts Lowell/YouGov,2024-09-11,2024-09-19,800.0,46.0,48.0,6.0
+Pennsylvania,University of Massachusetts Lowell/YouGov,2024-10-02,2024-10-09,800.0,45.0,46.0,9.0
+Pennsylvania,Z to A Research,2024-08-23,2024-08-26,613.0,46.0,46.0,8.0
+Pennsylvania,GQR,2024-07-26,2024-07-30,500.0,46.0,50.0,4.0
+Pennsylvania,American Pulse,2024-10-02,2024-10-10,1193.0,49.75,48.55,1.7000000000000028
+Pennsylvania,Quantus Polls and News,2024-07-27,2024-07-28,500.0,47.6,46.4,6.0
+Pennsylvania,The Washington Post,2024-09-12,2024-09-16,1003.0,47.5,48.0,4.5
+Pennsylvania,Franklin and Marshall College,2024-10-09,2024-10-20,583.0,50.0,49.0,1.0
+Pennsylvania,Franklin and Marshall College,2024-10-09,2024-10-20,794.0,44.5,48.5,7.0
+Pennsylvania,Franklin and Marshall College,2024-09-04,2024-09-15,890.0,46.0,49.0,5.0
+Pennsylvania,Franklin and Marshall College,2024-07-21,2024-08-11,920.0,43.0,46.0,11.0
+Pennsylvania,Monmouth,2024-09-19,2024-09-23,654.0,45.0,47.0,8.0
+Pennsylvania,Monmouth,2024-10-24,2024-10-28,824.0,47.0,46.0,7.0
+Pennsylvania,Muhlenberg,2024-09-16,2024-09-19,450.0,48.0,48.0,4.0
+Pennsylvania,Wick,2024-08-27,2024-08-29,1607.0,48.5,48.0,3.5
+Pennsylvania,YouGov/Center for Working Class Politics,2024-09-24,2024-10-02,1000.0,44.7,46.8,8.5
+Rhode Island,MassINC Polling Group,2024-09-12,2024-09-18,800.0,41.5,54.5,4.0
+Rhode Island,U. New Hampshire,2024-09-12,2024-09-16,683.0,38.0,58.0,4.0
+Rhode Island,Embold Research,2024-09-16,2024-09-20,876.0,38.0,52.0,10.0
+Rhode Island,U. Rhode Island,2024-08-15,2024-09-08,500.0,27.0,53.0,20.0
+South Carolina,ActiVote,2024-10-05,2024-10-29,400.0,58.5,41.5,0.0
+South Carolina,ActiVote,2024-09-09,2024-10-17,400.0,58.4,41.6,0.0
+South Carolina,East Carolina University,2024-10-18,2024-10-22,950.0,55.1,42.0,2.8999999999999986
+South Carolina,Winthrop U.,2024-09-21,2024-09-29,1068.0,51.6,42.0,6.399999999999999
+South Dakota,Emerson,2024-10-19,2024-10-22,825.0,62.0,36.5,1.5
+South Dakota,Mason-Dixon,2024-10-12,2024-10-16,500.0,59.0,33.0,8.0
+Tennessee,ActiVote,2024-10-05,2024-10-28,400.0,61.7,38.3,0.0
+Tennessee,ActiVote,2024-09-24,2024-10-16,400.0,62.4,37.6,0.0
+Tennessee,ActiVote,2024-07-27,2024-08-29,400.0,63.1,36.9,0.0
+Tennessee,Targoz Market Research,2024-09-27,2024-10-08,1200.0,54.0,35.0,11.0
+Tennessee,Targoz Market Research,2024-09-27,2024-10-08,971.0,56.0,35.0,9.0
+Texas,Florida Atlantic University/Mainstreet Research,2024-10-02,2024-10-06,811.0,50.0,45.0,5.0
+Texas,Florida Atlantic University/Mainstreet Research,2024-10-02,2024-10-06,775.0,50.0,45.0,5.0
+Texas,Cygnal,2024-10-26,2024-10-28,600.0,51.0,43.0,6.0
+Texas,ActiVote,2024-10-21,2024-10-27,400.0,55.0,45.0,0.0
+Texas,ActiVote,2024-09-07,2024-09-24,400.0,54.3,45.7,0.0
+Texas,ActiVote,2024-09-26,2024-10-16,400.0,55.8,44.2,0.0
+Texas,ActiVote,2024-07-31,2024-08-13,400.0,53.3,46.7,0.0
+Texas,ActiVote,2024-08-14,2024-08-31,400.0,54.5,45.5,0.0
+Texas,CES / YouGov,2024-10-01,2024-10-25,6473.0,51.0,47.0,2.0
+Texas,CES / YouGov,2024-10-01,2024-10-25,6526.0,51.0,47.0,2.0
+Texas,Emerson,2024-09-03,2024-09-05,845.0,50.9,48.0,1.1000000000000014
+Texas,Emerson,2024-09-22,2024-09-24,950.0,52.3,46.7,1.0
+Texas,Emerson,2024-10-18,2024-10-21,815.0,53.1,45.9,1.0
+Texas,Marist,2024-10-03,2024-10-07,1186.0,53.0,46.0,1.0
+Texas,Marist,2024-10-03,2024-10-07,1365.0,52.0,46.0,2.0
+Texas,Morning Consult,2024-08-30,2024-09-08,2940.0,51.75,43.43,4.82
+Texas,Morning Consult,2024-10-06,2024-10-15,2048.0,50.0,46.0,4.0
+Texas,Morning Consult,2024-09-09,2024-09-18,2716.0,49.58,45.77,4.649999999999999
+Texas,PPP,2024-09-25,2024-09-26,759.0,50.0,45.0,5.0
+Texas,PPP,2024-08-21,2024-08-22,725.0,47.0,43.0,10.0
+Texas,RMG Research,2024-09-25,2024-09-27,779.0,53.0,46.0,1.0
+Texas,Siena/NYT,2024-09-29,2024-10-04,617.0,49.25,42.75,8.0
+Texas,Siena/NYT,2024-10-23,2024-10-26,1180.0,51.25,40.75,8.0
+Texas,YouGov,2024-08-23,2024-08-31,1200.0,49.0,44.0,7.0
+Texas,YouGov,2024-10-07,2024-10-17,1075.0,51.0,46.0,3.0
+Texas,YouGov,2024-10-07,2024-10-17,1108.0,50.0,45.0,5.0
+Texas,YouGov,2024-10-02,2024-10-10,1091.0,51.0,46.0,3.0
+Texas,Lake Research,2024-08-24,2024-08-29,800.0,51.0,43.0,6.0
+Texas,CWS Research,2024-10-01,2024-10-04,533.0,48.0,43.0,9.0
+Texas,CWS Research,2024-09-04,2024-09-09,504.0,51.0,41.0,8.0
+Texas,Texas Hispanic Policy Foundation,2024-09-13,2024-09-18,1200.0,50.0,44.0,6.0
+Texas,U. Houston,2024-09-26,2024-10-10,1329.0,51.0,46.0,3.0
+Texas,University of Houston/Texas Southern University,2024-08-05,2024-08-16,1365.0,49.5,44.6,5.899999999999999
+Texas,University of Texas at Tyler,2024-10-14,2024-10-21,956.0,51.0,46.0,3.0
+Utah,Noble Predictive Insights,2024-10-02,2024-10-07,600.0,51.5,38.0,10.5
+Utah,Noble Predictive Insights,2024-10-02,2024-10-07,539.0,54.0,37.0,9.0
+Utah,PPP,2024-09-27,2024-09-28,612.0,54.0,39.0,7.0
+Utah,HarrisX,2024-08-02,2024-08-09,800.0,55.5,26.5,18.0
+Utah,HarrisX,2024-10-15,2024-10-19,813.0,63.0,31.0,6.0
+Vermont,U. New Hampshire,2024-08-15,2024-08-19,924.0,28.0,68.5,3.5
+Virginia,ActiVote,2024-08-19,2024-09-17,400.0,44.8,55.2,0.0
+Virginia,ActiVote,2024-10-02,2024-10-28,400.0,45.9,54.1,0.0
+Virginia,CES / YouGov,2024-10-01,2024-10-25,2015.0,44.0,52.0,4.0
+Virginia,CES / YouGov,2024-10-01,2024-10-25,2027.0,44.0,53.0,3.0
+Virginia,Emerson,2024-09-22,2024-09-24,860.0,46.2,52.7,1.0999999999999943
+Virginia,Morning Consult,2024-08-30,2024-09-08,873.0,42.24,51.97,5.789999999999999
+Virginia,Morning Consult,2024-09-09,2024-09-18,899.0,44.44,50.76,4.800000000000004
+Virginia,Washington Post/George Mason University,2024-10-19,2024-10-23,1004.0,42.5,48.5,9.0
+Virginia,Washington Post/George Mason University,2024-09-04,2024-09-08,1005.0,42.5,50.25,7.25
+Virginia,Quantus Insights,2024-10-22,2024-10-24,725.0,47.8,48.9,3.3000000000000043
+Virginia,Quantus Polls and News,2024-08-20,2024-08-22,629.0,45.8,48.6,5.600000000000001
+Virginia,Christopher Newport U.,2024-09-28,2024-10-04,800.0,41.0,52.0,7.0
+Virginia,Research America,2024-09-03,2024-09-09,1000.0,44.5,44.5,11.0
+Virginia,Research America,2024-09-03,2024-09-09,756.0,46.0,47.5,6.5
+Virginia,Roanoke College,2024-08-12,2024-08-16,691.0,43.0,46.0,11.0
+Virginia,Virginia Commonwealth U.,2024-09-16,2024-09-25,832.0,37.0,43.0,20.0
+Virginia,Virginia Commonwealth U.,2024-09-16,2024-09-25,762.0,36.6,47.4,16.0
+Virginia,Virginia Commonwealth U.,2024-08-26,2024-09-06,749.0,35.7,49.4,14.899999999999999
+Virginia,Virginia Commonwealth U.,2024-08-26,2024-09-06,813.0,36.0,46.0,18.0
+Washington,ActiVote,2024-09-07,2024-10-13,400.0,40.0,60.0,0.0
+Washington,ActiVote,2024-10-03,2024-10-29,400.0,40.9,59.1,0.0
+Washington,PPP,2024-10-16,2024-10-17,571.0,40.0,55.0,5.0
+Washington,PPP,2024-07-24,2024-07-25,581.0,38.0,52.0,10.0
+Washington,SurveyUSA,2024-10-09,2024-10-14,703.0,35.0,57.0,8.0
+Washington,Elway,2024-10-08,2024-10-12,401.0,32.0,57.0,11.0
+Washington,Elway,2024-09-03,2024-09-06,403.0,32.0,53.0,15.0
+West Virginia,Research America,2024-08-21,2024-08-27,400.0,61.0,34.0,5.0
+Wisconsin,Bullfinch,2024-08-08,2024-08-11,500.0,41.0,50.0,9.0
+Wisconsin,Bullfinch,2024-10-11,2024-10-18,600.0,46.5,49.0,4.5
+Wisconsin,ActiVote,2024-08-29,2024-09-29,400.0,47.9,52.1,0.0
+Wisconsin,AtlasIntel,2024-10-12,2024-10-17,932.0,48.3,48.95,2.75
+Wisconsin,AtlasIntel,2024-10-25,2024-10-29,1470.0,48.85,48.3,2.8500000000000014
+Wisconsin,AtlasIntel,2024-09-20,2024-09-25,1077.0,49.650000000000006,48.2,2.1499999999999915
+Wisconsin,Beacon/Shaw,2024-07-22,2024-07-24,1046.0,48.75,47.5,3.75
+Wisconsin,Benenson Strategy Group/GS Strategy Group,2024-07-26,2024-08-02,404.0,44.5,48.5,7.0
+Wisconsin,Benenson Strategy Group/GS Strategy Group,2024-09-19,2024-09-25,411.0,46.5,48.5,5.0
+Wisconsin,CES / YouGov,2024-10-01,2024-10-25,1542.0,47.0,50.0,3.0
+Wisconsin,CES / YouGov,2024-10-01,2024-10-25,1552.0,46.0,51.0,3.0
+Wisconsin,CNN/SSRS,2024-08-23,2024-08-29,976.0,44.0,50.0,6.0
+Wisconsin,CNN/SSRS,2024-10-23,2024-10-28,736.0,45.0,51.0,4.0
+Wisconsin,Emerson,2024-10-21,2024-10-22,800.0,49.9,49.2,0.8999999999999986
+Wisconsin,Emerson,2024-10-05,2024-10-08,1000.0,49.9,49.2,0.8999999999999986
+Wisconsin,Emerson,2024-07-22,2024-07-23,845.0,47.15,48.0,4.850000000000001
+Wisconsin,Emerson,2024-08-25,2024-08-28,850.0,49.8,49.1,1.1000000000000014
+Wisconsin,Emerson,2024-09-15,2024-09-18,1000.0,50.3,48.7,1.0
+Wisconsin,Fabrizio/GBAO,2024-09-28,2024-10-08,600.0,46.5,47.0,6.5
+Wisconsin,Fabrizio/Impact,2024-09-11,2024-09-14,600.0,46.5,48.5,5.0
+Wisconsin,Fabrizio/McLaughlin,2024-10-06,2024-10-09,800.0,49.0,48.0,3.0
+Wisconsin,Focaldata,2024-08-06,2024-08-16,700.0,44.833333333333336,50.699999999999996,4.466666666666669
+Wisconsin,Focaldata,2024-09-03,2024-09-16,1019.0,45.975,52.075,1.9499999999999957
+Wisconsin,Global Strategy Group/North Star Opinion Research,2024-09-23,2024-09-29,408.0,45.5,47.0,7.5
+Wisconsin,InsiderAdvantage,2024-10-08,2024-10-09,800.0,48.0,48.0,4.0
+Wisconsin,InsiderAdvantage,2024-09-11,2024-09-12,800.0,46.6,49.0,4.399999999999999
+Wisconsin,InsiderAdvantage,2024-10-26,2024-10-27,800.0,49.0,48.0,3.0
+Wisconsin,InsiderAdvantage,2024-08-06,2024-08-07,800.0,48.6,48.3,3.1000000000000014
+Wisconsin,Marist,2024-09-12,2024-09-17,1194.0,49.0,50.0,1.0
+Wisconsin,Marist,2024-09-12,2024-09-17,1312.0,47.0,50.0,3.0
+Wisconsin,Morning Consult,2024-08-30,2024-09-08,638.0,46.19,49.48,4.330000000000005
+Wisconsin,Morning Consult,2024-08-23,2024-08-26,701.0,44.0,51.5,4.5
+Wisconsin,Morning Consult,2024-08-23,2024-08-26,648.0,44.0,52.5,3.5
+Wisconsin,Morning Consult,2024-09-19,2024-09-25,785.0,47.5,50.5,2.0
+Wisconsin,Morning Consult,2024-09-19,2024-09-25,849.0,47.5,49.5,3.0
+Wisconsin,Morning Consult,2024-10-06,2024-10-15,527.0,48.0,47.0,5.0
+Wisconsin,Morning Consult,2024-10-16,2024-10-20,635.0,47.5,47.5,5.0
+Wisconsin,Morning Consult,2024-10-16,2024-10-20,624.0,47.5,47.5,5.0
+Wisconsin,Morning Consult,2024-07-24,2024-07-28,700.0,46.0,46.5,7.5
+Wisconsin,Morning Consult,2024-09-09,2024-09-18,600.0,44.3,50.22,5.480000000000004
+Wisconsin,Navigator,2024-07-31,2024-08-08,600.0,46.5,46.5,7.0
+Wisconsin,OnMessage Inc.,2024-09-24,2024-10-02,500.0,47.0,46.0,7.0
+Wisconsin,OnMessage Inc.,2024-10-19,2024-10-22,600.0,48.0,47.0,5.0
+Wisconsin,Patriot Polling,2024-10-12,2024-10-14,803.0,50.0,49.0,1.0
+Wisconsin,Patriot Polling,2024-09-01,2024-09-03,826.0,47.7,47.9,4.399999999999999
+Wisconsin,Public Opinion Strategies,2024-07-23,2024-07-29,400.0,46.0,48.0,6.0
+Wisconsin,RMG Research,2024-07-31,2024-08-05,800.0,45.0,48.0,7.0
+Wisconsin,RMG Research,2024-09-17,2024-09-23,788.0,49.0,50.0,1.0
+Wisconsin,RMG Research,2024-10-10,2024-10-16,787.0,50.0,49.0,1.0
+Wisconsin,Redfield & Wilton Strategies,2024-10-20,2024-10-22,557.0,47.0,49.0,4.0
+Wisconsin,Redfield & Wilton Strategies,2024-09-27,2024-10-02,533.0,46.0,47.0,7.0
+Wisconsin,Redfield & Wilton Strategies,2024-09-06,2024-09-09,626.0,46.0,49.0,5.0
+Wisconsin,Redfield & Wilton Strategies,2024-10-12,2024-10-14,641.0,47.0,48.0,5.0
+Wisconsin,Redfield & Wilton Strategies,2024-10-25,2024-10-27,746.0,47.0,49.0,4.0
+Wisconsin,Redfield & Wilton Strategies,2024-07-22,2024-07-24,523.0,44.0,44.0,12.0
+Wisconsin,Redfield & Wilton Strategies,2024-08-25,2024-08-28,672.0,44.0,48.0,8.0
+Wisconsin,Redfield & Wilton Strategies,2024-10-16,2024-10-18,622.0,46.0,47.0,7.0
+Wisconsin,Redfield & Wilton Strategies,2024-07-31,2024-08-03,597.0,43.0,43.0,14.0
+Wisconsin,Redfield & Wilton Strategies,2024-08-12,2024-08-15,469.0,44.0,48.0,8.0
+Wisconsin,Redfield & Wilton Strategies,2024-09-16,2024-09-19,600.0,47.0,47.0,6.0
+Wisconsin,Remington,2024-09-16,2024-09-20,800.0,48.0,48.0,4.0
+Wisconsin,Siena/NYT,2024-08-05,2024-08-08,661.0,44.25,49.5,6.25
+Wisconsin,Siena/NYT,2024-09-21,2024-09-26,680.0,46.25,48.5,5.25
+Wisconsin,SoCal Strategies,2024-10-28,2024-10-29,600.0,49.0,49.0,2.0
+Wisconsin,Spry Strategies,2024-08-14,2024-08-20,600.0,43.8,47.099999999999994,9.100000000000009
+Wisconsin,Suffolk,2024-10-20,2024-10-23,500.0,48.0,46.6,5.399999999999999
+Wisconsin,TIPP,2024-08-12,2024-08-14,1015.0,44.6,46.15,9.25
+Wisconsin,TIPP,2024-08-12,2024-08-14,976.0,45.9,46.7,7.399999999999999
+Wisconsin,Trafalgar Group,2024-09-28,2024-09-30,1079.0,47.1,46.0,6.899999999999999
+Wisconsin,Trafalgar Group,2024-08-28,2024-08-30,1083.0,47.3,46.2,6.5
+Wisconsin,Trafalgar Group,2024-10-18,2024-10-20,1083.0,46.8,46.6,6.600000000000001
+Wisconsin,Washington Post/George Mason University,2024-09-30,2024-10-15,695.0,46.5,50.0,3.5
+Wisconsin,YouGov,2024-09-03,2024-09-06,946.0,49.0,51.0,0.0
+Wisconsin,YouGov,2024-08-15,2024-08-23,500.0,41.0,46.5,12.5
+Wisconsin,MassINC Polling Group,2024-09-12,2024-09-18,800.0,45.5,52.0,2.5
+Wisconsin,Quinnipiac,2024-10-17,2024-10-21,1108.0,48.0,48.0,4.0
+Wisconsin,Quinnipiac,2024-09-12,2024-09-16,1075.0,47.5,48.5,4.0
+Wisconsin,Quinnipiac,2024-10-03,2024-10-07,1073.0,48.5,46.5,5.0
+Wisconsin,co/efficient,2024-09-04,2024-09-06,917.0,47.0,47.0,6.0
+Wisconsin,Fabrizio Ward,2024-08-19,2024-08-21,400.0,43.5,48.0,8.5
+Wisconsin,RG Strategies,2024-09-19,2024-09-23,400.0,45.0,51.0,4.0
+Wisconsin,Research Co.,2024-10-05,2024-10-07,450.0,48.0,50.0,2.0
+Wisconsin,Z to A Research,2024-08-23,2024-08-26,518.0,47.0,47.0,6.0
+Wisconsin,Quantus Polls and News,2024-08-14,2024-08-15,601.0,46.9,47.8,5.300000000000004
+Wisconsin,Arc Insights,2024-10-02,2024-10-06,700.0,48.0,47.0,5.0
+Wisconsin,BK Strategies,2024-08-19,2024-08-21,600.0,45.0,48.0,7.0
+Wisconsin,Marquette Law School,2024-10-16,2024-10-24,753.0,46.5,48.0,5.5
+Wisconsin,Marquette Law School,2024-10-16,2024-10-24,834.0,46.0,48.5,5.5
+Wisconsin,Marquette Law School,2024-07-24,2024-08-01,801.0,47.0,48.0,5.0
+Wisconsin,Marquette Law School,2024-07-24,2024-08-01,877.0,46.5,47.0,6.5
+Wisconsin,Marquette Law School,2024-08-28,2024-09-05,822.0,45.5,49.5,5.0
+Wisconsin,Marquette Law School,2024-08-28,2024-09-05,738.0,45.5,50.0,4.5
+Wisconsin,Marquette Law School,2024-09-18,2024-09-26,798.0,46.0,50.5,3.5
+Wisconsin,Marquette Law School,2024-09-18,2024-09-26,882.0,46.0,50.0,4.0
