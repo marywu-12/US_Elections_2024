@@ -5,4 +5,4 @@ The state-level polling data is available on fivethirtyeight.com: https://projec
 
 After elections update: I correctly predicted that Trump would win, however, he won with more votes than I predicted. There could be several reasons for this: 
 * States are assumed to be independent. In reality, states that are geographically close or share common borders can affect each other in voting. 
-* Some pollsters lean towards a certain candidate/party and the quality of polls differ. To improve, one could add a weight of poll qualities when we select the most recent polls, and select the highest quality polls. 
+* Some pollsters lean towards a certain candidate/party and the quality of polls differ. To improve, one could add a weight of poll qualities when selecting the most recent polls, and choose the highest quality polls. 
